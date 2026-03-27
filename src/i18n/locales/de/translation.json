@@ -1,0 +1,90 @@
+{
+  "app": {
+    "title": "Fahrschule",
+    "tagline": "Meistere die deutsche Führerscheinprüfung"
+  },
+  "nav": {
+    "home": "Startseite",
+    "quiz": "Lernen",
+    "exam": "Prüfungsmodus",
+    "bookmarks": "Lesezeichen",
+    "leaderboard": "Bestenliste",
+    "profile": "Profil",
+    "login": "Anmelden",
+    "logout": "Abmelden"
+  },
+  "home": {
+    "welcome": "Willkommen zurück",
+    "categories": "Nach Kategorie lernen",
+    "stats": "Dein Fortschritt",
+    "weakAreas": "Verbesserungsbedarf",
+    "recentExams": "Letzte Prüfungen",
+    "startStudying": "Lernen starten",
+    "startExam": "Prüfung starten"
+  },
+  "quiz": {
+    "question": "Frage",
+    "of": "von",
+    "checkAnswer": "Antwort prüfen",
+    "next": "Weiter",
+    "finish": "Fertig",
+    "correct": "Richtig!",
+    "incorrect": "Falsch",
+    "explanation": "Erklärung",
+    "bookmark": "Lesezeichen",
+    "unbookmark": "Lesezeichen entfernen",
+    "score": "Punkte",
+    "complete": "Quiz abgeschlossen"
+  },
+  "exam": {
+    "title": "Prüfungssimulation",
+    "description": "30 Fragen · 30 Minuten · 90% zum Bestehen",
+    "start": "Prüfung starten",
+    "timeLeft": "Verbleibende Zeit",
+    "submit": "Prüfung abgeben",
+    "passed": "Bestanden!",
+    "failed": "Nicht bestanden",
+    "passThreshold": "Bestehensgrenze: 90%",
+    "yourScore": "Dein Ergebnis"
+  },
+  "results": {
+    "title": "Ergebnisse",
+    "correct": "Richtig",
+    "incorrect": "Falsch",
+    "percentage": "Punkte",
+    "reviewWrong": "Falsche Antworten wiederholen",
+    "tryAgain": "Nochmal versuchen",
+    "backHome": "Zurück zur Startseite"
+  },
+  "progress": {
+    "completed": "Abgeschlossen",
+    "accuracy": "Genauigkeit",
+    "streak": "Tage-Serie",
+    "totalAnswered": "Beantwortete Fragen",
+    "noData": "Noch keine Daten — fang an zu lernen!"
+  },
+  "auth": {
+    "signIn": "Anmelden",
+    "signUp": "Konto erstellen",
+    "email": "E-Mail-Adresse",
+    "password": "Passwort",
+    "name": "Anzeigename",
+    "signInWithGoogle": "Mit Google fortfahren",
+    "noAccount": "Noch kein Konto?",
+    "haveAccount": "Bereits ein Konto?",
+    "forgotPassword": "Passwort vergessen?"
+  },
+  "settings": {
+    "darkMode": "Dunkelmodus",
+    "language": "Sprache",
+    "account": "Kontoeinstellungen"
+  },
+  "common": {
+    "loading": "Lädt…",
+    "error": "Etwas ist schiefgelaufen",
+    "retry": "Erneut versuchen",
+    "cancel": "Abbrechen",
+    "save": "Speichern",
+    "back": "Zurück"
+  }
+}

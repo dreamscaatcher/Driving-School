@@ -1,0 +1,90 @@
+{
+  "app": {
+    "title": "Driving Theory",
+    "tagline": "Master the German driving theory test"
+  },
+  "nav": {
+    "home": "Home",
+    "quiz": "Study",
+    "exam": "Exam Mode",
+    "bookmarks": "Bookmarks",
+    "leaderboard": "Leaderboard",
+    "profile": "Profile",
+    "login": "Sign In",
+    "logout": "Sign Out"
+  },
+  "home": {
+    "welcome": "Welcome back",
+    "categories": "Study by Category",
+    "stats": "Your Progress",
+    "weakAreas": "Needs Improvement",
+    "recentExams": "Recent Exams",
+    "startStudying": "Start Studying",
+    "startExam": "Start Exam"
+  },
+  "quiz": {
+    "question": "Question",
+    "of": "of",
+    "checkAnswer": "Check Answer",
+    "next": "Next",
+    "finish": "Finish",
+    "correct": "Correct!",
+    "incorrect": "Incorrect",
+    "explanation": "Explanation",
+    "bookmark": "Bookmark",
+    "unbookmark": "Remove Bookmark",
+    "score": "Score",
+    "complete": "Quiz Complete"
+  },
+  "exam": {
+    "title": "Exam Simulation",
+    "description": "30 questions · 30 minutes · 90% to pass",
+    "start": "Start Exam",
+    "timeLeft": "Time remaining",
+    "submit": "Submit Exam",
+    "passed": "Passed!",
+    "failed": "Failed",
+    "passThreshold": "Pass threshold: 90%",
+    "yourScore": "Your score"
+  },
+  "results": {
+    "title": "Results",
+    "correct": "Correct",
+    "incorrect": "Incorrect",
+    "percentage": "Score",
+    "reviewWrong": "Review Wrong Answers",
+    "tryAgain": "Try Again",
+    "backHome": "Back to Home"
+  },
+  "progress": {
+    "completed": "Completed",
+    "accuracy": "Accuracy",
+    "streak": "Day Streak",
+    "totalAnswered": "Questions Answered",
+    "noData": "No data yet — start studying!"
+  },
+  "auth": {
+    "signIn": "Sign In",
+    "signUp": "Create Account",
+    "email": "Email address",
+    "password": "Password",
+    "name": "Display name",
+    "signInWithGoogle": "Continue with Google",
+    "noAccount": "Don't have an account?",
+    "haveAccount": "Already have an account?",
+    "forgotPassword": "Forgot password?"
+  },
+  "settings": {
+    "darkMode": "Dark Mode",
+    "language": "Language",
+    "account": "Account Settings"
+  },
+  "common": {
+    "loading": "Loading…",
+    "error": "Something went wrong",
+    "retry": "Retry",
+    "cancel": "Cancel",
+    "save": "Save",
+    "back": "Back"
+  }
+}

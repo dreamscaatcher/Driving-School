@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Triangle border -->
+  <polygon points="256,40 472,440 40,440" fill="white" stroke="red" stroke-width="30" stroke-linejoin="round"/>
+
+  <!-- Upward red arrow (slimmer, shifted left) -->
+  <polygon points="220,150 255,240 235,240 235,360 205,360 205,240 185,240" fill="red"/>
+
+  <!-- Downward black arrow (slimmer, shifted right) -->
+  <polygon points="305,200 305,320 325,320 290,400 255,320 275,320 275,200" fill="black"/>
+</svg>

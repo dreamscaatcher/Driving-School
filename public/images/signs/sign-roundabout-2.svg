@@ -1,0 +1,24 @@
+<svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Blue circular background -->
+  <circle cx="200" cy="200" r="180" fill="#005BB5" />
+
+  <!-- Arrow 1 (top-left curve) -->
+  <path d="M200 70
+           C140 70, 90 120, 90 180"
+        fill="none" stroke="#FFFFFF" stroke-width="28" stroke-linecap="round" />
+  <polygon points="90,180 115,155 60,155" fill="#FFFFFF" />
+
+  <!-- Arrow 2 (bottom-left curve) -->
+  <path d="M70 220
+           C70 280, 120 330, 180 330"
+        fill="none" stroke="#FFFFFF" stroke-width="28" stroke-linecap="round" />
+  <polygon points="180,330 155,355 155,300" fill="#FFFFFF" />
+
+  <!-- Arrow 3 (bottom-right curve) -->
+  <path d="M220 330
+           C280 330, 330 280, 330 220"
+        fill="none" stroke="#FFFFFF" stroke-width="28" stroke-linecap="round" />
+  <polygon points="330,220 305,245 360,245" fill="#FFFFFF" />
+
+</svg>
