@@ -1,0 +1,672 @@
+VERKEHRSZEICHENKATALOG (VzKat) - STAND: APRIL 2025
+Amtliche Version nach VwV-StVO 2025 (BAnz AT 09.04.2025 B2)
+Quelle: https://www.vzkat.de/2017/VzKat.htm
+
+========================================================================
+TEIL 1 - ALLGEMEINES
+========================================================================
+
+Stand: 10.04.2025
+
+Hinweis: Blauer Text und "-NEU-"-Markierungen kennzeichnen Kommentare zu
+Änderungen und sind nicht Bestandteil der amtlichen Version.
+
+## Grundlagen
+
+Der Katalog enthält alle Verkehrszeichen nach StVO §§39-43 und deren
+zugelassene Varianten. Er enthält vom Bundesverkehrsministerium durch
+Verkehrsblatt-Bekanntmachungen eingeführte Zeichen. Der VzKat dient als
+Anlage zur Verwaltungsvorschrift zur StVO (VwV-StVO).
+
+Anforderungen: Verkehrszeichen müssen Einheitlichkeit und Klarheit für
+den nationalen und internationalen Straßenverkehr gemäß VwV-StVO
+gewährleisten.
+
+## Neuheiten (Änderungen gegenüber November 2021)
+
+Neu aufgenommene Zeichen:
+- Z 230 (Ladebereich)
+- Z 257-59 (Verbot für elektrische Kleinstfahrzeuge)
+- Z 310-41 & Z 311.1 (Ortstafeln, doppelseitig)
+- Z 625 (Richtungstafeln in Kurven)
+- Z 1006-32 (Unfallgefahr Lkw)
+- Z 1012-55, -56, -57 (Schule, Spielplatz, Behinderteneinrichtung)
+- Z 1024-22 (Vorrang Mehrpersonenfahrzeuge)
+- Z 1040-37 (Einschränkung schwerer Fahrzeuge)
+- Z 1053-54, -55 (Ladevorgang, Masseangaben)
+- Z 1060-34 (Linkseitiges Parkverbot)
+
+Gestrichene Zeichen:
+- Z 1001-34 & -35 (Verbale Entfernungsangaben)
+
+## Nummerierungssystem
+
+Verkehrszeichen verwenden hierarchische Nummerierung:
+Hauptnummer + Unternummer (getrennt durch Bindestrich)
+
+Hauptnummernbereiche:
+- Z 101-199: Gefahrzeichen (§40)
+- Z 201-299: Vorschriftzeichen (§41)
+- Z 301-599: Richtzeichen (§42)
+- Z 600-699: Verkehrseinrichtungen (§43)
+- Z 701-799: Sonstige Zeichen der StVO
+- Z 1000+: Zusatzzeichen
+
+Unternummernkategorien:
+- -10 bis -19: Linksweisend/neutrale Ausrichtung
+- -20 bis -29: Rechtsweisend
+- -30 bis -39: Bidirektional/neutral
+- -40 bis -49: Beidseitige Wirksamkeit
+- -50 bis -99: Nicht-direktionale Elemente
+
+Bei variablem Zahleninhalt geben Unternummern den angezeigten Wert an.
+
+## Abmessungen
+
+Die Maße richten sich nach den Vorgaben der VwV-StVO (Abschnitt III,
+Nummer 3, Nummern 12ff). Im Katalog erscheinen nur Sonderformmaße
+(Angabe als Höhe × Breite in Millimeter).
+
+Zonenzeichen sollten in der Regel die nächstgrößere Größe (üblicherweise
+Größe 3) verwenden.
+
+## Ausführung
+
+Verkehrszeichen müssen den einschlägigen internationalen und nationalen
+Normen entsprechen und nach anerkannten Qualitätsanforderungen gemäß
+VwV-StVO-Vorschriften gepflegt werden.
+
+Variable Verkehrszeichen können invertierte Farben anzeigen (weiße
+Hintergründe werden schwarz, schwarze Symbole weiß) gemäß
+RWVZ-Richtlinien.
+
+
+========================================================================
+TEIL 2 - GEFAHRZEICHEN (nach Anlage 1)
+========================================================================
+
+Stand: VzKat 04/2025
+
+Zeichen 101 - Gefahrstelle
+Grundlegendes Warnzeichen mit zusätzlichen Varianten mit Symbolen
+nach § 39 Abs. 8 StVO:
+- 101-10/20: Flugbetrieb
+- 101-11/21: Fußgängerüberweg
+- 101-12/22: Viehtrieb
+- 101-13/23: Reiter
+- 101-14/24: Amphibienwanderung
+- 101-15/25: Steinschlag
+- 101-51: Schnee- oder Eisglätte
+- 101-52: Splitt, Schotter
+- 101-53: Ufer
+- 101-54: Unzureichendes Lichtraumprofil
+- 101-55: Bewegliche Brücke
+
+Zeichen 102 - Kreuzung oder Einmündung
+
+Zeichen 103 - Kurve
+Varianten: -10 (links), -20 (rechts)
+
+Zeichen 105 - Doppelkurve
+Varianten: -10 (zunächst links), -20 (zunächst rechts)
+
+Zeichen 108 - Gefälle
+Unternummer -4 bis -25 (Prozentwert des Gefälles)
+
+Zeichen 110 - Steigung
+Unternummer -4 bis -25 (Prozentwert der Steigung)
+
+Zeichen 112 - Unebene Fahrbahn
+
+Zeichen 114 - Schleuder- oder Rutschgefahr
+
+Zeichen 117 - Seitenwind
+Varianten: -10 (von rechts), -20 (von links)
+
+Zeichen 120 - Verengte Fahrbahn
+
+Zeichen 121 - Einseitig verengte Fahrbahn
+Varianten: -10 (rechts), -20 (links)
+
+Zeichen 123 - Arbeitsstelle
+
+Zeichen 124 - Stau
+
+Zeichen 125 - Gegenverkehr
+
+Zeichen 131 - Lichtzeichenanlage
+
+Zeichen 133 - Fußgänger
+Varianten: -10 (rechte Aufstellung), -20 (linke Aufstellung)
+
+Zeichen 136 - Kinder
+Varianten: -10 (rechts), -20 (links)
+
+Zeichen 138 - Radverkehr
+Varianten: -10 (rechts), -20 (links)
+
+Zeichen 142 - Wildwechsel
+Varianten: -10 (rechts), -20 (links)
+
+Zeichen 151 - Bahnübergang
+
+Zeichen 156 - Bahnübergang mit dreistreifiger Bake
+Abmessungen: 1000 x 300
+Varianten: -10/-11 (rechts, mit/ohne Entfernung), -20/-21 (links, mit/ohne Entfernung)
+
+Zeichen 157 - Dreistreifige Bake
+Abmessungen: 1000 x 300
+Varianten wie Z 156
+
+Zeichen 159 - Zweistreifige Bake
+Abmessungen: 1000 x 300
+Varianten wie Z 156
+
+Zeichen 162 - Einstreifige Bake
+Abmessungen: 1000 x 300
+Varianten wie Z 156
+
+
+========================================================================
+TEIL 3 - VORSCHRIFTZEICHEN (nach Anlage 2)
+========================================================================
+
+Stand: VzKat 04/2025
+
+Zeichen 201 - Andreaskreuz (Bahnübergang)
+Abmessungen: 1350 x 180 (Schenkelmaß)
+Varianten: stehend (-50), stehend mit Blitz (-51), liegend (-52),
+liegend mit Blitz (-53)
+Ausführung nach EBO (Eisenbahn-Bau- und Betriebsordnung)
+
+Zeichen 205 - Vorfahrt gewähren
+
+Zeichen 206 - Halt. Vorfahrt gewähren
+Höhen: 900 mm Standard, 1050 mm Übergröße
+
+Zeichen 208 - Dem Gegenverkehr Vorfahrt gewähren
+
+Zeichen 209 - Vorgeschriebene Fahrtrichtung
+Varianten: rechts, links (-10), geradeaus (-30)
+
+Zeichen 211 - Vorgeschriebene Fahrtrichtung hier
+Varianten: rechts, links (-10)
+
+Zeichen 214 - Vorgeschriebene Fahrtrichtungskombinationen
+Geradeaus oder rechts; geradeaus oder links (-10); rechts oder links (-30)
+
+Zeichen 215 - Kreisverkehr
+
+Zeichen 220 - Einbahnstraße
+Abmessungen: 300 x 800 mm
+Varianten: linksweisend (-10), rechtsweisend (-20), doppelseitig (-40)
+
+Zeichen 222 - Vorgeschriebene Vorbeifahrtrichtung
+Rechts vorbei (Standard); links vorbei (-10)
+
+Zeichen 223.1 - Seitenstreifen befahren
+Abmessungen: 2250 x 2250
+Varianten: 2+Seitenstreifen (-50), 3+Seitenstreifen (-51), 4+Seitenstreifen (-52)
+
+Zeichen 223.2 - Seitenstreifen nicht mehr befahren
+Gleiche Abmessungen und Varianten wie 223.1
+
+Zeichen 223.3 - Seitenstreifen räumen
+Abmessungen: 2250 x 2250
+Varianten (-50, -51, -52) entsprechend den Fahrstreifenkonfigurationen
+
+Zeichen 224 - Haltestelle
+Varianten: Standard (-40), Schulbus (-51), Schulbus doppelseitig (-41)
+
+Zeichen 229 - Taxenstand
+Direktionszeichen mit Z 283-Pfeilen: Anfang-rechts (-10), Ende-links (-11),
+Ende-rechts (-20), Anfang-links (-21), Mitte-rechts (-30), Mitte-links (-31)
+
+Zeichen 230 - Ladebereich [NEU]
+Direktionszeichen wie Z 283-Pfeile mit identischem Nummerierungsschema
+(-10 bis -31)
+
+Zeichen 237 - Radweg
+
+Zeichen 238 - Reitweg
+
+Zeichen 239 - Gehweg
+
+Zeichen 240 - Gemeinsamer Geh- und Radweg
+
+Zeichen 241 - Getrennter Rad- und Gehweg
+Varianten: Radweg links (-30), Radweg rechts (-31)
+
+Zeichen 242.1 - Beginn eines verkehrsberuhigten Bereichs
+Variante: doppelseitig mit Rückseite als 242.2 (-40)
+
+Zeichen 242.2 - Ende eines verkehrsberuhigten Bereichs
+
+Zeichen 244.1 - Beginn einer Fahrradstraße
+Variante: doppelseitig mit Rückseite als 244.2 (-40)
+
+Zeichen 244.2 - Ende einer Fahrradstraße
+
+Zeichen 244.3 - Beginn einer Fahrradzone
+Variante: doppelseitig mit Rückseite als 244.4 (-40)
+
+Zeichen 244.4 - Ende einer Fahrradzone
+
+Zeichen 245 - Bussonderfahrstreifen
+
+Zeichen 250 - Verbot für Fahrzeuge aller Art
+
+Zeichen 251 - Verbot für Kraftwagen
+Hinweis: Symbole können nach dem Vorbild von Z 260 verdoppelt werden
+
+Zeichen 253 - Verbot für Kraftfahrzeuge über 3,5 t
+
+Zeichen 254 - Verbot für Radfahrer
+
+Zeichen 255 - Verbot für Krafträder
+
+Zeichen 257 - Verbotszeichen (Varianten)
+- -50: Mofas
+- -51: Reiter und Tiere
+- -52: Tierfuhrwerke
+- -53: Viehtrieb
+- -54: Omnibusse
+- -55: Personenkraftwagen
+- -56: Personenkraftwagen mit Anhänger
+- -57: Lastkraftwagen mit Anhänger
+- -58: Fahrzeuge mit einer Höchstgeschwindigkeit unter 25 km/h
+- -59: Elektrokleinstfahrzeuge nach eKFV [NEU]
+
+Zeichen 259 - Verbot für Fußgänger
+
+Zeichen 260 - Verbot für Kraftfahrzeuge
+
+Zeichen 261 - Verbot für kennzeichnungspflichtige Kraftfahrzeuge
+mit gefährlichen Gütern
+
+Zeichen 262 - Tatsächliche Masse
+Unternummer gibt Zahlenwert an (Beispiel: -5.5 = 5,5 t)
+
+Zeichen 263 - Tatsächliche Achslast
+Unternummer gibt Zahlenwert an (Beispiel: -8 = 8 t)
+
+Zeichen 264 - Tatsächliche Breite
+Varianten -2.3, -2 (Breite in Metern)
+
+Zeichen 265 - Tatsächliche Höhe
+Unternummer gibt Zahlenwert an (Beispiel: -3.8 = 3,8 m)
+
+Zeichen 266 - Tatsächliche Länge
+Unternummer gibt Zahlenwert an (Beispiel: -10 = 10 m)
+
+Zeichen 267 - Verbot der Einfahrt
+
+Zeichen 268 - Schneeketten vorgeschrieben
+
+Zeichen 269 - Verbot für kennzeichnungspflichtige wassergefährdende
+Güter
+
+Zeichen 270.1 - Beginn eines Verkehrsverbotes zur Minderung
+schädlicher Luftverunreinigungen
+Variante: doppelseitig (-40)
+
+Zeichen 270.2 - Ende des Verkehrsverbotes zur Minderung schädlicher
+Luftverunreinigungen
+
+Zeichen 272 - Verbot des Wendens
+
+Zeichen 273 - Mindestabstand
+Unternummer gibt Meterzahl an (Beispiel: -70 = 70 m)
+
+Zeichen 274 - Zulässige Höchstgeschwindigkeit
+Geschwindigkeiten 5–130 km/h in 10-km/h-Schritten
+Unternummer gibt Geschwindigkeit an (Beispiel: -60 = 60 km/h)
+
+Zeichen 274.1 - Beginn einer Tempo-30-Zone
+Varianten: Tempo 30 doppelseitig (-40), Tempo 20 Gewerbe doppelseitig
+(-41), Tempo 20 einseitig (-20)
+Hinweis: "Tempo-10-Zone" ist nicht amtlich
+
+Zeichen 274.2 - Ende einer Tempo-30-Zone
+Variante für Ende Tempo 20 Gewerbe (-20)
+
+Zeichen 275 - Vorgeschriebene Mindestgeschwindigkeit
+10-km/h-Schritte; Beispiel: -30 = 30 km/h
+
+Zeichen 276 - Überholverbot für Kraftfahrzeuge aller Art
+
+Zeichen 277 - Überholverbot für Kraftfahrzeuge über 3,5 t
+
+Zeichen 277.1 - Überholverbot für mehrspurige Kraftfahrzeuge
+und Krafträder mit Beiwagen
+Hinweis: Regelung schafft Widerspruch, der StVO-Korrektur erfordert
+
+Zeichen 278 - Ende der zulässigen Höchstgeschwindigkeit
+Unternummer gibt vorherige Begrenzung an (Beispiel: -60)
+
+Zeichen 279 - Ende der vorgeschriebenen Mindestgeschwindigkeit
+Unternummer gibt Wert an (Beispiel: -30)
+
+Zeichen 280 - Ende des Überholverbotes für Kraftfahrzeuge aller Art
+
+Zeichen 281 - Ende des Überholverbotes für Kraftfahrzeuge über 3,5 t
+
+Zeichen 281.1 - Ende des Überholverbotes für mehrspurige Fahrzeuge
+und Krafträder mit Beiwagen
+
+Zeichen 282 - Ende sämtlicher streckenbezogener Verbote
+
+Zeichen 283 - Absolutes Haltverbot
+Varianten: Anfang-rechts (-10), Ende-links (-11), Ende-rechts (-20),
+Anfang-links (-21), Mitte-rechts (-30), Mitte-links (-31)
+
+Zeichen 286 - Eingeschränktes Haltverbot
+Varianten identisch mit Z 283 (-10 bis -31)
+
+Zeichen 290.1 - Beginn einer Zone mit eingeschränktem Haltverbot
+Variante: doppelseitig (-40) mit Rückseite 290.2
+
+Zeichen 290.2 - Ende einer Zone mit eingeschränktem Haltverbot
+
+Zeichen 293 - Fußgängerüberweg
+Ausführung nach RMS
+
+Zeichen 294 - Haltlinie
+Ausführung nach RMS
+
+Zeichen 295 - Fahrstreifenbegrenzung und Fahrbahnbegrenzung
+Ausführung nach RMS
+
+Zeichen 296 - Einseitige Fahrstreifenbegrenzung
+Ausführung nach RMS
+
+Zeichen 297 - Pfeilmarkierungen
+Ausführung nach RMS
+
+Zeichen 297.1 - Vorankündigungspfeil
+Zeigt Fahrstreifenende an (-21); Ausführung nach RMS
+
+Zeichen 298 - Sperrfläche
+Ausführung nach RMS
+
+Zeichen 299 - Grenzmarkierung für Halt- und Parkverbote
+Ausführung nach RMS
+
+
+========================================================================
+TEIL 4 - RICHTZEICHEN (nach Anlage 3, § 42 Abs. 2)
+========================================================================
+
+Stand: VzKat 04/2025
+
+Vorfahrtzeichen (301–308):
+- Z 301: Vorfahrt
+- Z 306: Vorfahrtstraße
+- Z 307: Ende der Vorfahrtstraße
+- Z 308: Gegenüber dem Gegenverkehr Vorrang gewähren
+
+Ortschaftszeichen (310–311.1):
+- Z 310: Ortstafel (Einfahrt)
+- Z 311: Ortstafel (Ausfahrt)
+- Z 311.1: Ortstafel ohne Zielangabe [NEU]
+Verschiedene Konfigurationen vorhanden
+
+Parkzeichen (314–317):
+- Z 314: Parken mit Varianten (-10 bis -50)
+- Z 314.1: Beginn einer Parkraumbewirtschaftungszone
+- Z 314.2: Ende einer Parkraumbewirtschaftungszone
+- Z 315: Parken auf Gehwegen
+- Z 316: Park-and-ride-Anlage
+- Z 317: Wandererparkplatz
+
+Zonen- und Sonderbereichszeichen (325.1–328):
+- Z 325.1: Beginn eines verkehrsberuhigten Bereichs
+- Z 325.2: Ende eines verkehrsberuhigten Bereichs
+- Z 328: Nothaltebucht
+
+Straßenkategoriezeichen (330.1–333.1):
+- Z 330.1: Beginn einer Autobahn
+- Z 330.2: Ende einer Autobahn
+- Z 331.1: Beginn einer Kraftfahrstraße
+- Z 331.2: Ende einer Kraftfahrstraße
+- Z 333: Ausfahrt (Abmessungen: 950 x 3450)
+
+Markierungen (340–342):
+- Z 340: Leitlinie
+- Z 341: Wartelinie
+- Z 342: Haifischzähne
+Ausführung nach RMS
+
+Fußgänger- und Radverkehrszeichen (350–350.2):
+- Z 350: Fußgängerüberweg
+- Z 350.1: Radschnellweg
+- Z 350.2: Ende eines Radschnellweges
+
+Wegweisende Zeichen (385–439):
+Stadtinformationen, Touristenschilder und umfassende
+Wegweisungssysteme mit Varianten für verschiedene Zufahrten
+(-10 bis -53 Unterbezeichnungen)
+
+Maut- und Grenzzeichen (390–393):
+- Z 390: Bundesautobahn-Mautpflicht
+- Z 391–393: Zollkontrollpunkte
+
+Fahrstreifensignalisierungszeichen (501–546):
+Umfangreiche Verkehrsflusssteuerung einschließlich
+Fahrstreifenübergänge, Zusammenführungen und Trennungen
+mit Standardmaßen (1600 x 1250 mm)
+
+Umleitungszeichen (550–590):
+- Z 550–589: Einfädelungs- und Kreisverkehrsführung
+- Z 590: Umfahrung von Sperrstellen
+
+Alle Zeichen geben Ausführungsstandards an mit Verweis auf
+technische Richtlinien "RWB", "RWBA", "RMS", "RUB" oder "RtB"
+
+
+========================================================================
+TEIL 5 - VERKEHRSEINRICHTUNGEN (nach § 43 StVO)
+========================================================================
+
+Stand: VzKat 04/2025
+
+Zeichen 600 - Absperrschranke
+Varianten Z 600-30 bis Z 600-52
+Abmessungen: 100 x 800 bis 500 x 2400 mm
+Neue Varianten vorhanden [NEU]
+Variante Z 600-60: Sperrpfosten (Schraffur waagerecht)
+
+Zeichen 605 - Leitbake
+Typen:
+- Schraffenbake: Varianten -10, -20, -40, -41; Abmessungen 1000 x 250 mm
+- Pfeilbake: Varianten -11, -21, -42, -43; Abmessungen 1000 x 250 mm
+- Warnbake: Varianten -12, -22, -44, -45; Abmessungen 2000 x 250 mm
+- Warnlichtbake: Varianten -13, -23; Abmessungen 2500 x 500 mm
+- Warnlichtbake mit Z 222: Varianten -14, -24; Abmessungen 2500 x 500 mm
+
+Zeichen 610 - Leitkegel
+Höhen: 300, 500, 750, 1000 mm (mit entsprechenden Ringhöhen)
+
+Zeichen 615–630:
+Mobile Absperrwände, Richtungstafeln, Leitpfosten, Leitplatten,
+Leitmarkierungen, Schwellen, Bordsteinsicherungen und
+Parkwarnleuchten mit umfangreichen Maßvarianten
+
+
+========================================================================
+TEIL 6 - SONSTIGE ZEICHEN DER STVO
+========================================================================
+
+Stand: VzKat 04/2025
+
+Zeichen 720 - Grünpfeilschild
+Abmessungen: 250 x 250
+Ausführung nach VkBl. 1994, S. 294
+
+Zeichen 721 - Grünpfeilschild mit Beschränkung auf den Radverkehr
+Abmessungen: 420 x 315
+
+
+========================================================================
+TEIL 7 - ZUSATZZEICHEN
+========================================================================
+
+Stand: VzKat 04/2025
+
+## Zusatzzeichen nach § 39 Abs. 3 StVO (allgemeine Zusatzzeichen)
+
+Zeichen 1000 - Richtungsangaben mit Pfeilen
+Verschiedene Pfeilvarianten (-10 bis -34)
+
+Zeichen 1001 - Längenangaben
+"Entfernungsangaben sind auf- oder abzurunden"
+Varianten mit Abstands- und Längenangaben in Metern und Kilometern
+
+Zeichen 1002 - Verlauf der Vorfahrtstraße
+Verlauf an Kreuzungen (Varianten -10, -11, -20, -21)
+und Einmündungen (Varianten -12 bis -24)
+
+Zeichen 1004 - Entfernungsangaben
+Numerische Abstände in Metern (-30) und Kilometern (-31)
+mit Rundungsregeln
+
+Zeichen 1005 - Entfernung mit verbaler Ergänzung
+"Reißverschluss erst in ... m" (mit Verengungszeichen 531+)
+
+Zeichen 1006 - Gefahrenhinweis durch Symbol
+Drei Varianten (-30, -31, -32); -31 ist neue Variante [NEU]
+
+Zeichen 1007 - Gefahrenhinweis durch Text
+Ausführliche Warnoptionen (-30 bis -62) einschließlich neuer Varianten
+
+Zeichen 1008 - Geänderte Vorfahrt-/Verkehrsregelungshinweise
+Vier Varianten (-30 bis -34) für geänderte Verkehrsregeln
+
+Zeichen 1010 - Information durch Symbol
+Zahlreiche symbolbasierte Informationszeichen (-10 bis -72)
+nach EmoG-Vorschriften
+
+Zeichen 1012 - Information durch Text
+Verbale Informationszeichen mit mehreren Varianten,
+mehrere als neu gekennzeichnet
+
+Zeichen 1013 - Seitenstreifennutzungshinweise
+"Seitenstreifen befahren" und "Seitenstreifen räumen"
+mit Entfernungsangaben
+
+Zeichen 1014 - Tunnelkategorien nach ADR-Übereinkommen
+Kategorien B bis E (-50 bis -53)
+
+## Zusatzzeichen nach § 41 Abs. 2 StVO (Freigabezeichen)
+
+Zeichen 1020 - Freigegebene Personengruppen
+Varianten -11 bis -32 für zugelassene Fußgänger-/Gruppenklassen
+
+Zeichen 1022 - Freigegebene einspurige Fahrzeuge
+Optionen -10 bis -17 für Krafträder und ähnliche Fahrzeuge
+
+Zeichen 1024 - Freigegebene mehrspurige Fahrzeuge
+Varianten -10 bis -22, einschließlich neuer Variante nach EmoG
+
+Zeichen 1026 - Freigegebene Spezialfahrzeuge/-transporte
+Verbale Angaben für Gewerbetransporte (-30 bis -63)
+
+Zeichen 1028 - Freigegebene sonstige Fahrzeug-/Personengruppen
+Varianten -30 bis -34
+
+Zeichen 1031 - Freigabe nach Emissionsstandards
+"rote, gelbe und grüne Plakette" nach § 40 Abs. 1 BImSchG
+
+## Einschränkende Zusatzzeichen nach § 41 Abs. 2 StVO
+
+Zeichen 1040 - Zeitliche Angaben ohne Wochentag-Einschränkungen
+Stundenbasierte Beschränkungen (-10, -30 bis -37)
+für Z 101 oder Z 274
+
+Zeichen 1042 - Zeitliche Angaben mit Wochentag-Einschränkungen
+Wochentägliche Zeitbeschränkungen (-30 bis -53)
+
+Zeichen 1044 - Personengruppen
+Beschränkungsvarianten -10 bis -12, -30
+
+Zeichen 1046 - Einspurige Fahrzeuge
+Verweis auf Z 1010-52, -62, -63, -65, -68, -69
+
+Zeichen 1048 - Mehrspurige Fahrzeuge
+Varianten -14, -15, -18, -20
+
+Zeichen 1049 - Sonstige/mehrere mehrspurige Fahrzeuge
+Varianten -11 bis -13 mit Verweis auf Z 1010-61
+
+Zeichen 1050 - Fahrzeuge (verbal)
+Textbasierte Beschränkungen (-30 bis -33)
+
+Zeichen 1052 - Fahrzeuge mit besonderer Ladung
+Varianten -30, -31
+
+Zeichen 1053 - Sonstige Beschränkungen
+Mehrere Varianten (-30 bis -55) [NEU]
+
+Zeichen 1060 - Erweiterte Zusatzzeichen
+Varianten -31 bis -34; Verbindung mit Z 277 erforderlich;
+neue Variante vorhanden [NEU]
+
+
+========================================================================
+ANHANG - KOMPLETTÜBERSICHT
+========================================================================
+
+Stand: VzKat 04/2025
+Quelle: https://www.vzkat.de/2017/Anhang/Anhang.htm
+
+Übersicht aller Zeichen und zugehöriger Regelungen nach StVO:
+
+Gefahrzeichen (Gefahrzeichen) nach § 40 StVO
+Vorschriftzeichen (Vorschriftzeichen) nach § 41 StVO
+Richtzeichen (Richtzeichen) nach § 42 StVO
+Verkehrseinrichtungen (Verkehrseinrichtungen) nach § 43 StVO
+Zusatzzeichen (Zusatzzeichen) nach §§ 39-41 StVO
+
+Gefahrzeichen umfassen Warnungen vor: Fußgängerübergängen, Kurven,
+Gefällen, Witterungsbedingungen, Fahrbahnverengungen und
+Bahnübergängen in verschiedenen Ausführungen.
+
+Vorschriftzeichen umfassen: Vorfahrtregeln, Geschwindigkeitsbegrenzungen
+(5-130 km/h), Parkverbote, Fahrzeugverbote, Einbahnstraßen und
+Busspuren.
+
+Richtzeichen beinhalten: Richtungsweiser, Parkplätze,
+Serviceeinrichtungen und Touristikinformationen.
+
+Verkehrseinrichtungen umfassen: Absperrungen, Leitpfosten,
+Leitkegel, Reflektoren und vorübergehende Beschilderung.
+
+Zusatzzeichen bieten: Ausnahmen, Zeitbeschränkungen,
+Fahrzeugspezifikationen und Sonderbedingungen.
+
+Das Nummerierungssystem verwendet (z. B. 101-10, 274-50) mit
+detaillierten Unterkategorien. Gefällewarnungen reichen von 4 %
+bis 25 % Neigung, Geschwindigkeitszeichen decken mehrere
+Schwellenwerte ab.
+
+========================================================================
+QUELLENANGABEN
+========================================================================
+
+Hauptquelle:
+  https://www.vzkat.de/2017/VzKat.htm  (Stand: 10.04.2025)
+
+Einzelne Abschnitte:
+  https://www.vzkat.de/2017/Teil01/Teil01.htm  (Teil 1 - Allgemeines)
+  https://www.vzkat.de/2017/Teil02/Teil02.htm  (Teil 2 - Gefahrzeichen)
+  https://www.vzkat.de/2017/Teil03/Teil03.htm  (Teil 3 - Vorschriftzeichen)
+  https://www.vzkat.de/2017/Teil04/Teil04.htm  (Teil 4 - Richtzeichen)
+  https://www.vzkat.de/2017/Teil05/Teil05.htm  (Teil 5 - Verkehrseinrichtungen)
+  https://www.vzkat.de/2017/Teil06/Teil06.htm  (Teil 6 - Sonstige Zeichen)
+  https://www.vzkat.de/2017/Teil07/Teil07.htm  (Teil 7 - Zusatzzeichen)
+  https://www.vzkat.de/2017/Anhang/Anhang.htm  (Anhang - Komplettübersicht)
+
+Rechtsgrundlage:
+  VwV-StVO 2025 (BAnz AT 09.04.2025 B2)
+  StVO §§ 39-43 (Verkehrszeichen)
+  Stand der Daten: 10. April 2025

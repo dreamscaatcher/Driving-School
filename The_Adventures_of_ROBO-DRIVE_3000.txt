@@ -1,0 +1,1072 @@
+The Adventures of ROBO-DRIVE 3000
+
+A Driving School Story That Brings All German Traffic Regulations to Life
+
+Narrated by Driving Instructor Helmut Breitbach, Owner of "Breitbach Driving School — Safe to the Finish" in Koblenz on the Rhine
+
+"Dear colleagues, what you are about to read is the true story of my most unusual student. A robot named ROBO-DRIVE 3000, built by the Technical University of Berlin, was meant to prove that a machine can learn all the rules of the StVO, StVZO, FeV, and FeV Annex 7 through experience. I therefore designed every incident, every encounter, every situation so that ROBO-DRIVE could answer any conceivable exam question by the end. Here is our story."
+— Helmut Breitbach, March 2026
+
+Prologue: The Day ROBO-DRIVE Arrived
+
+On a foggy Monday morning in January, a gleaming silver container rolled into the yard of Breitbach Driving School. Two engineers from TU Berlin unscrewed the side panel, and out stepped ROBO-DRIVE 3000 — a humanoid robot with glowing blue sensor eyes, flexible gripping hands, and a knowledge bank that was still completely empty.
+
+"Mr. Breitbach," said Professor Dr. Lena Voss, "ROBO-DRIVE doesn't learn by reading. He learns by experiencing. Every rule must be anchored as an incident in his memory. Only then can he recall it."
+
+Helmut nodded thoughtfully. He had 32 years of experience as a driving instructor. He'd had students who panicked at the sight of a roundabout and others who fell asleep on the motorway. But a robot? That was new.
+
+"Very well," said Helmut, pulling his well-worn StVO commentary from the drawer. "Then let's start from the very beginning."
+
+Chapter 1: The Fundamental Rules — Caution and Consideration
+
+Incident 1.1 — The First Step onto the Road (§ 1 StVO)
+
+On the first day, Helmut led ROBO-DRIVE to the pedestrian traffic light in front of the driving school. "Before you travel even one metre on a German road, you must know the most important rule," he said. "Participation in road traffic requires constant caution and mutual consideration."
+
+At that moment, a cyclist shot across the pavement, swerved around an elderly lady, and nearly grazed ROBO-DRIVE's arm. The lady scolded. The cyclist rode on.
+
+"You see?" said Helmut. "Anyone participating in traffic must behave in such a way that no other person is harmed, endangered, or obstructed or inconvenienced more than is unavoidable under the circumstances. The cyclist violated both principles."
+
+ROBO-DRIVE stored: § 1(1) StVO — Constant caution and mutual consideration. § 1(2) StVO — No harm, endangerment, obstruction, or inconvenience to others.
+
+Incident 1.2 — Keeping Right and the Matter of the Bicycle (§ 2 StVO)
+
+Helmut placed ROBO-DRIVE in the driving school car and set off. "Vehicles must use the carriageways; of two carriageways, the right one," he explained. "And one must drive as far right as possible — not only when there is oncoming traffic, but also when being overtaken, at hilltops, in curves, or when visibility is limited."
+
+Suddenly a tram rolled up. "Vehicles travelling in the longitudinal direction of a railway must let it pass," said Helmut, steering to the side.
+
+Two cyclists rode side by side on the road. "Are they allowed to do that?" asked ROBO-DRIVE.
+
+"Yes — bicycles may be ridden side by side if doing so does not obstruct traffic. Otherwise, they must ride single file."
+
+Then they passed a primary school. A seven-year-old child was riding their bicycle on the pavement, accompanied by their mother — also on a bicycle. "Children up to their completed eighth year of age must use pavements when riding bicycles," explained Helmut. "Children up to their completed tenth year of age may do so. And an accompanying person who is at least 16 years old may also ride on the pavement with a bicycle for the duration of the accompaniment. But special consideration must be given to pedestrians."
+
+ROBO-DRIVE observed as mother and child dismounted before a road crossing. "Why are they getting off?"
+
+"When using a pavement before crossing a carriageway, both the children and the accompanying supervisory person must dismount."
+
+Incident 1.3 — Winter Tyres and Black Ice (§ 2(3a) StVO)
+
+The next morning, the road was icy. Helmut deliberately drove ROBO-DRIVE through an area with compacted snow. "In conditions of black ice, compacted snow, slush, frost, or hoarfrost, a motor vehicle may only be driven if all wheels are fitted with tyres that meet the requirements of § 36(4) StVZO — that is, winter tyres."
+
+A single-track motorcycle overtook them. "Is that permitted in this weather?"
+
+"Single-track motor vehicles are exempt from the winter tyre requirement. As are agricultural and forestry utility vehicles, motorised invalid carriages, and forklift trucks."
+
+A heavy truck of class N3 rolled past — with winter tyres only on the drive axles and steering axles. "For vehicles of classes M2, M3, N2, and N3, it is sufficient if at least the permanently driven axles and the front steering axles are fitted with winter tyres," Helmut confirmed.
+
+Chapter 2: Speed — The Invisible Boundary
+
+Incident 2.1 — 50 km/h, 100 km/h, and the Matter of Fog (§ 3 StVO)
+
+Helmut drove with ROBO-DRIVE from Koblenz towards the Mosel valley. Within the built-up area, the speedometer read exactly 50 km/h. "The permissible maximum speed within built-up areas is 50 km/h for all motor vehicles," explained Helmut.
+
+At the town exit sign, he accelerated to 100 km/h. "Outside built-up areas, the limit for passenger cars and other motor vehicles up to 3.5 t gross mass is 100 km/h."
+
+Then fog rolled in. Visibility dropped to about 40 metres. Helmut immediately braked to 45 km/h. "If visibility due to fog, snowfall, or rain is less than 50 metres, you may not drive faster than 50 km/h — unless an even lower speed is called for. I'm going slower here because the road is more winding."
+
+"And the basic rule?" asked ROBO-DRIVE.
+
+"Anyone operating a vehicle may only drive at a speed that allows constant control of the vehicle. You may only drive at a speed that allows you to stop within the visible stretch of road."
+
+Incident 2.2 — Children by the Roadside (§ 3(2a) StVO)
+
+On a residential street, children were playing on the pavement. A ball rolled onto the carriageway. Helmut braked immediately and said: "Anyone operating a vehicle must behave towards children, persons in need of help, and elderly people — particularly by reducing speed and maintaining readiness to brake — in such a way that any endangerment of these road users is excluded."
+
+Incident 2.3 — The Slowpoke on the Country Road (§ 3(2) StVO)
+
+A tractor crawled ahead of them at 15 km/h. "Is that allowed?" asked ROBO-DRIVE.
+
+"Without a compelling reason, motor vehicles may not drive so slowly that they obstruct the flow of traffic. But the tractor has a compelling reason — it cannot go any faster due to its design."
+
+Incident 2.4 — Snow Chains (§ 3(4) StVO)
+
+In the Alps, on a winter drive, Helmut fitted snow chains. "The permissible maximum speed for motor vehicles with snow chains, even under the most favourable conditions, is 50 km/h," he explained.
+
+Chapter 3: Following Distance, Overtaking, and Passing
+
+Incident 3.1 — The Rear-End Collision That Wasn't (§ 4 StVO)
+
+On the B9 highway, a vehicle ahead of them braked suddenly. Helmut had maintained sufficient distance. "The distance to a vehicle ahead must generally be large enough that you can stop behind it even if it brakes suddenly."
+
+He then turned to ROBO-DRIVE: "But also remember: a vehicle ahead may not brake sharply without a compelling reason."
+
+Incident 3.2 — The 50-Metre Gap (§ 4(3) StVO)
+
+On the motorway, at 90 km/h, a heavy truck (over 3.5 t gross mass) was tailgating another. "Anyone driving a truck with a gross mass exceeding 3.5 t or a motor coach must maintain a minimum following distance of 50 metres to vehicles ahead on motorways when travelling faster than 50 km/h," explained Helmut. "That truck is in violation."
+
+Incident 3.3 — Overtaking with Lateral Clearance (§ 5 StVO)
+
+A female cyclist rode along the country road. Helmut pulled out to overtake — well to the left. "When overtaking pedestrians, cyclists, and users of personal light electric vehicles with motor vehicles, the minimum lateral clearance is 1.5 metres within built-up areas and 2 metres outside built-up areas."
+
+"Overtaking must be done on the left," added Helmut. "And one may only overtake if one can see that throughout the entire overtaking manoeuvre, any obstruction of oncoming traffic is excluded."
+
+Incident 3.4 — No Overtaking in Unclear Traffic Situations (§ 5(3) StVO)
+
+At a blind curve, the vehicle behind them attempted to overtake. "Overtaking is prohibited when the traffic situation is unclear or when prohibited by an ordered traffic sign," warned Helmut. "And vehicles over 7.5 t gross mass may not overtake if visibility due to fog, snowfall, or rain is less than 50 metres."
+
+Incident 3.5 — Passing on the Right in the City (§ 7 StVO)
+
+In Cologne, they sat in dense city traffic. Traffic on the right lane was flowing faster. "Within built-up areas, motor vehicles up to 3.5 t may freely choose their lane on carriageways with several marked lanes for one direction," explained Helmut. "In that case, it is permitted to drive faster on the right than on the left."
+
+"And the zipper merge procedure?" asked ROBO-DRIVE, as a lane ended.
+
+"When continuous driving on a lane is no longer possible or a lane ends, vehicles prevented from continuing must be allowed to merge onto the adjacent lane — immediately before the start of the narrowing, alternating one by one."
+
+Chapter 4: Right of Way — Who Goes First?
+
+Incident 4.1 — Right Before Left (§ 8 StVO)
+
+At an unmarked intersection, a small Fiat approached from the right. Helmut stopped. "At intersections and junctions, the right of way belongs to whoever approaches from the right. This does not apply when right of way is specially regulated by traffic signs, or to vehicles coming from a field or forest path onto another road."
+
+Incident 4.2 — The Roundabout (§ 8(1a) StVO)
+
+They arrived at a roundabout with Sign 215 below Sign 205. "When entering a roundabout under these signs, traffic on the circular carriageway has the right of way," explained Helmut. "And very importantly: when entering such a roundabout, the use of the turn signal is prohibited!"
+
+ROBO-DRIVE was confused: "No signalling when entering?"
+
+"Exactly. You only signal when leaving the roundabout."
+
+Incident 4.3 — Carefully Edging Forward (§ 8(2) StVO)
+
+At an unobstructed intersection, Helmut couldn't see whether anyone with the right of way was approaching. "If this cannot be determined because the location is not clearly visible, one may carefully edge into the intersection until a clear view is obtained."
+
+Chapter 5: Turning, U-Turns, Reversing
+
+Incident 5.1 — The Correct Left Turn (§ 9 StVO)
+
+In Bonn, Helmut wanted to turn left. "Anyone who wants to turn must announce this in good time and clearly — using the turn signals. Anyone who wants to turn left must position themselves towards the centre of the road — on one-way carriageways, as far left as possible."
+
+A cyclist was coming from the opposite direction. Helmut waited. "Anyone who wants to turn must let oncoming vehicles pass — including bicycles and personal light electric vehicles, if they are travelling on or alongside the carriageway in the same direction. Special consideration must be given to pedestrians — if necessary, one must wait."
+
+Incident 5.2 — The Heavy Truck Turning Right (§ 9(6) StVO)
+
+A large truck over 3.5 t turned right — at walking speed. "Anyone driving a motor vehicle with a gross mass exceeding 3.5 t within built-up areas must turn right at walking speed when bicycle traffic on or alongside the carriageway or pedestrian traffic in the immediate turning area can be expected."
+
+Incident 5.3 — Entering and Pulling Away (§ 10 StVO)
+
+Helmut drove out of a property onto the main road. "Anyone who wants to enter the road from a property, pedestrian zone, traffic-calmed area, or who wants to pull away from the kerb must behave in such a way that any endangerment of other road users is excluded — if necessary, one must be guided by another person."
+
+Chapter 6: Special Traffic Situations and the Emergency Corridor
+
+Incident 6.1 — Traffic Jam on the Motorway (§ 11(2) StVO)
+
+Traffic on the A61 came to a standstill. All vehicles stopped. Helmut immediately steered to the left. "As soon as vehicles on motorways or outside built-up areas on roads with at least two lanes in one direction are travelling at walking speed or are at a standstill, they must form a clear corridor — between the far-left lane and the lane immediately to its right."
+
+"The rescue corridor," said ROBO-DRIVE.
+
+"Exactly. So that police and emergency vehicles can get through."
+
+Incident 6.2 — Don't Enter the Intersection (§ 11(1) StVO)
+
+Before a signalised intersection, the light was green, but traffic was backed up beyond the intersection. "If traffic is congested, one must not enter the intersection despite having the right of way or a green light if one would have to wait on the intersection," explained Helmut, stopping before the intersection.
+
+Chapter 7: Stopping and Parking — The Eternal Drama
+
+Incident 7.1 — Where You May Not Stop (§ 12 StVO)
+
+Helmut drove through a narrow street. "Stopping is prohibited at narrow and unclear locations, in the area of sharp curves, on merging and exit lanes, at railway crossings, and in front of and within officially marked fire brigade access routes."
+
+"And what is parking?" asked ROBO-DRIVE.
+
+"Anyone who leaves their vehicle or stops for longer than three minutes is parking."
+
+Incident 7.2 — No-Parking Zones (§ 12(3) StVO)
+
+"Parking is prohibited within 5 metres before and after intersections and junctions, measured from the intersection points of the carriageway edges. If a cycle path is physically constructed to the right of the carriageway in the direction of travel, this increases to 8 metres. Parking is also prohibited in front of property entrances and exits, over manhole covers, and in front of dropped kerbs."
+
+Incident 7.3 — Night Truck Parking Ban (§ 12(3a) StVO)
+
+At 11 PM in a residential area: a heavy trailer (over 2 t) was parked at the roadside. "In purely residential and general residential areas, special recreational areas, spa districts, and hospital districts, the regular parking of motor vehicles over 7.5 t and trailers over 2 t is prohibited between 22:00 and 06:00 and on Sundays and public holidays."
+
+Incident 7.4 — Trailer Without Towing Vehicle (§ 12(3b) StVO)
+
+A trailer without a towing vehicle had been standing in a side street for three weeks. "A trailer without a towing vehicle may not be parked for longer than two weeks — unless in a correspondingly marked parking area."
+
+Incident 7.5 — Parking Space Priority (§ 12(5) StVO)
+
+Two cars were fighting over a parking space. "Priority at a parking space belongs to whoever reaches it directly first. The priority is retained if the entitled person drives past the space in order to reverse in."
+
+Chapter 8: Lighting and Warning Signals
+
+Incident 8.1 — The Night Drive (§ 17 StVO)
+
+Helmut drove with ROBO-DRIVE through the evening twilight. "During twilight, in darkness, or when visibility conditions otherwise require it, the prescribed lighting equipment must be used."
+
+He switched from high beam to dipped beam when an oncoming vehicle appeared. "One must dip the headlights in good time when a vehicle is approaching or driving ahead at close distance."
+
+"Driving with position lights alone is not permitted," he added.
+
+Incident 8.2 — Motorcycle in Daylight (§ 17(2a) StVO)
+
+A motorcycle overtook them — with dipped headlights on, even though it was broad daylight. "Anyone riding a motorcycle must also drive with dipped headlights or activated daytime running lights during the day."
+
+Incident 8.3 — Rear Fog Light (§ 17(3) StVO)
+
+Dense fog. Visibility was about 30 metres. "Rear fog lights may only be used when visibility due to fog is less than 50 metres."
+
+Incident 8.4 — Illuminating Stationary Vehicles (§ 17(4) StVO)
+
+On a country road, a parked car had no lighting at all. "Stationary vehicles outside built-up areas must be illuminated with their own light source," explained Helmut. "Within built-up areas, it is sufficient to make the side facing the carriageway visible with parking lights — own lighting is dispensable if the street lighting makes the vehicle clearly visible from a sufficient distance."
+
+Incident 8.5 — Warning Signals (§ 16 StVO)
+
+"Audible and visual warning signals may only be given by anyone overtaking outside built-up areas or by anyone who sees themselves or others endangered," taught Helmut. "And audible signals may not consist of a sequence of different tones."
+
+On the motorway, they approached a traffic jam. Helmut switched on the hazard warning lights. "Hazard warning lights may be switched on when one endangers others through one's vehicle or wants to warn others of dangers — for example, when approaching a traffic jam."
+
+Chapter 9: Motorways and High-Speed Roads
+
+Incident 9.1 — Who May Use the Motorway? (§ 18 StVO)
+
+At the motorway slip road, Helmut stopped and explained: "Motorways and high-speed roads may only be used by motor vehicles whose design-determined maximum speed exceeds 60 km/h. Vehicle and load together may not be higher than 4 metres or wider than 2.55 metres — refrigerated vehicles not wider than 2.60 metres."
+
+Incident 9.2 — Speeds on the Motorway (§ 18(5) StVO)
+
+On the A3, a car with a trailer was driving. "For passenger cars with trailers, the maximum speed on motorways is 80 km/h. For motor coaches with passengers for whom no seats are available, it is 60 km/h."
+
+Incident 9.3 — Prohibited Behaviour on the Motorway (§ 18(7-9) StVO)
+
+"On the motorway, U-turns and reversing are prohibited. Stopping, including on the hard shoulder, is prohibited. Pedestrians may not enter motorways."
+
+Incident 9.4 — Towing and the Motorway (§ 15a StVO)
+
+A broken-down vehicle was being towed on the motorway. "When towing a vehicle that has broken down on the motorway, the motorway must be left at the next exit. And when towing a vehicle that has broken down outside the motorway, you may not enter the motorway. During towing, both vehicles must have their hazard warning lights on. Motorcycles may not be towed."
+
+Chapter 10: Railway Crossings — Where the Train Is Always Right
+
+Incident 10.1 — The St. Andrew's Cross (§ 19 StVO)
+
+They approached a railway crossing with a St. Andrew's Cross. "Rail vehicles have priority at railway crossings marked with a St. Andrew's Cross," explained Helmut. "Road traffic may only approach railway crossings at a moderate speed. From Sign 151 through and including the crossing area of rails and road, motor vehicles may not be overtaken."
+
+"Vehicles must wait before the St. Andrew's Cross when a rail vehicle is approaching, when red flashing lights or yellow or red light signals are given, when barriers are lowering or are closed, when a railway employee commands a halt, or when an audible signal such as a train whistle sounds."
+
+Chapter 11: Public Transport and School Buses
+
+Incident 11.1 — The School Bus with Hazard Lights (§ 20 StVO)
+
+A yellow school bus with activated hazard warning lights stopped at a bus stop. Children were getting off. "Passing scheduled buses and marked school buses that are stopped at bus stops with hazard warning lights activated is only permitted at walking speed and at a distance that excludes any endangerment of passengers. The walking speed requirement also applies to oncoming traffic on the same carriageway."
+
+"And if such a bus with hazard lights is approaching a stop, it may not be overtaken."
+
+Chapter 12: Passenger Transport and Cargo
+
+Incident 12.1 — Child Seats and Seatbelts (§ 21, § 21a StVO)
+
+Helmut's sister came by with her three children. "Children up to their completed 12th year of age who are shorter than 150 cm may only be transported in motor vehicles on seats with prescribed seatbelts if appropriate child restraint systems are used."
+
+"In vehicles without seatbelts, children under three years of age may not be transported. Children from their completed third year of age who are shorter than 150 cm must be transported in the rear seat in such vehicles."
+
+"Prescribed seatbelts must be worn during the journey. And anyone riding motorcycles with a design-determined maximum speed exceeding 20 km/h must wear a suitable protective helmet during the journey."
+
+Incident 12.2 — Securing Cargo Correctly (§ 22 StVO)
+
+A tradesman's van ahead of them had insecurely fastened ladders. "Cargo must be stowed and secured so that it cannot slide, tip over, roll back and forth, fall off, or produce avoidable noise even during emergency braking or a sudden evasive manoeuvre."
+
+"Vehicle and load together may not be wider than 2.55 metres or higher than 4 metres. Cargo may protrude up to 1.50 metres to the rear — for transport distances up to 100 km, even up to 3 metres. If the cargo protrudes more than 1 metre beyond the rear reflectors, it must be marked with a bright red flag of at least 30 × 30 cm."
+
+Incident 12.3 — The Mobile Phone Ban (§ 23(1a) StVO)
+
+A driver beside them was on the phone, handset held to their ear. "Anyone operating a vehicle may only use an electronic device for communication, information, or organisation if the device is neither picked up nor held, and either only voice control and read-aloud functions are used or only a brief, situation-appropriate glance at the device occurs."
+
+"Radar warning devices are also prohibited. Anyone operating a vehicle may not operate or carry in a ready-to-use state any technical device designed to detect or disrupt traffic surveillance measures."
+
+Incident 12.4 — Face Must Not Be Concealed (§ 23(4) StVO)
+
+"And one more important thing: anyone driving a motor vehicle may not conceal or cover their face to the extent that they are no longer recognisable."
+
+Chapter 13: Pedestrians, Crossings, and Play Streets
+
+Incident 13.1 — The Pedestrian Crossing (§ 26 StVO)
+
+At a zebra crossing, an elderly gentleman with a walking stick was approaching. Helmut braked and waited. "At pedestrian crossings, vehicles must enable pedestrians to cross the carriageway. Vehicles may only approach at a moderate speed — if necessary, they must wait."
+
+"Overtaking is not permitted at crossings."
+
+Incident 13.2 — Where Pedestrians Must Walk (§ 25 StVO)
+
+"Pedestrians must use the pavements. Walking on the carriageway is only permitted if the road has neither a pavement nor a verge. Outside built-up areas, one must walk on the left side of the carriageway edge, if this is reasonable."
+
+Chapter 14: Accidents — Duties at the Scene
+
+Incident 14.1 — The Rear-End Collision (§ 34 StVO)
+
+At a red traffic light, they observed a minor rear-end collision. "After a traffic accident, anyone involved must: stop immediately, secure the traffic, ascertain the consequences of the accident, assist the injured, provide their own name and address, present their driving licence and vehicle registration document, and remain at the accident scene until identification has been enabled."
+
+"Accident traces may not be removed before the necessary findings have been made."
+
+Chapter 15: Breakdowns and Emergencies
+
+Incident 15.1 — The Breakdown on the Country Road (§ 15 StVO)
+
+Helmut's car deliberately stopped at a location with poor visibility (a planned exercise). "If a multi-track vehicle stops at a location where it cannot be recognised as a stationary obstacle in good time, the hazard warning lights must be switched on immediately. Then at least one conspicuously warning sign — the warning triangle — must be placed in a clearly visible position at a sufficient distance, approximately 100 metres away in fast traffic."
+
+Chapter 16: Special Rights and Blue Lights
+
+Incident 16.1 — Emergency Vehicles (§ 35, § 38 StVO)
+
+An ambulance with blue lights and siren raced past. "Blue flashing lights together with the siren may only be used when the utmost urgency is required to save human lives or prevent serious health damage. It commands: All other road users must immediately clear the way."
+
+"Rescue service vehicles are exempt from the provisions of the StVO when the utmost urgency is required to save human lives."
+
+"But the special rights may only be exercised with due regard for public safety and order."
+
+Chapter 17: Traffic Lights, Police Signals, and Traffic Signs
+
+Incident 17.1 — Traffic Light Signals (§ 37 StVO)
+
+At a major intersection, Helmut explained the colour sequence: "Traffic light signals follow the colour sequence green — amber — red — red and amber simultaneously — green. Red is at the top, amber in the middle, and green at the bottom."
+
+"Green means: Traffic is released. Amber commands: Wait before the intersection for the next signal. Red commands: Stop before the intersection."
+
+"And the green arrow?" asked ROBO-DRIVE.
+
+"After stopping, turning right is also permitted on red if a sign with a green arrow on a black background — the green arrow sign — is attached to the right of the red light signal. One must behave in such a way that any obstruction or endangerment of other road users is excluded."
+
+"Traffic light signals take precedence over right-of-way rules and right-of-way traffic signs."
+
+Incident 17.2 — Police Officer Directing Traffic (§ 36 StVO)
+
+At a failed traffic light, a police officer stood directing. "The signs and instructions of police officers must be obeyed. They take precedence over all other orders and rules. Extending one arm to the side across the direction of travel means: Stop before the intersection. Raising one arm means: Wait before the intersection for the next signal."
+
+Chapter 18: Environmental Protection, Sunday and Public Holiday Driving Ban
+
+Incident 18.1 — Unnecessary Noise and Holiday Driving Ban (§ 30 StVO)
+
+A teenager was letting his engine idle in front of the supermarket. "When using vehicles, unnecessary noise and avoidable exhaust fumes are prohibited. Letting vehicle engines run unnecessarily and slamming vehicle doors excessively loudly is prohibited. Pointless driving back and forth within built-up areas is prohibited if it disturbs others."
+
+"On Sundays and public holidays from 0:00 to 22:00, trucks with a gross mass exceeding 7.5 t and trailers behind trucks may not be driven for commercial or paid goods transport — with certain exceptions, such as fresh milk, fresh meat, easily perishable fruit and vegetables, or live bees."
+
+Chapter 19: Animals in Road Traffic
+
+Incident 19.1 — The Dog on the Bicycle (§ 28 StVO)
+
+A woman was leading her dog from her bicycle. "Only dogs may be led from bicycles," confirmed Helmut. "Leading animals from motor vehicles is prohibited. Domestic and farm animals that could endanger traffic must be kept away from the road. They are only permitted there when accompanied by suitable persons."
+
+Chapter 20: Traffic Obstructions and Sports on the Road
+
+Incident 20.1 — The Object on the Carriageway (§ 32 StVO)
+
+A cardboard box lay in the middle of the carriageway. "It is prohibited to place objects on roads or leave them there if this could endanger or impede traffic. Whoever is responsible for such traffic-obstructing conditions must remove them immediately."
+
+Incident 20.2 — Sports on the Road (§ 31 StVO)
+
+Children were playing football on a verge. "Sports and games on the carriageway, verges, and cycle paths are not permitted — unless indicated by a supplementary sign."
+
+Chapter 21: Vehicle Registration and Construction Standards (StVZO)
+
+Incident 21.1 — The Basic Rule of Vehicle Registration (§ 16, § 30 StVZO)
+
+Helmut led ROBO-DRIVE into his workshop. "Only vehicles that are roadworthy may be operated on public roads. Vehicles must be constructed and equipped so that their normal operation does not harm or endanger, obstruct, or inconvenience anyone more than is unavoidable, and so that occupants — particularly in accidents — are protected from injuries as much as possible."
+
+Incident 21.2 — Operating Permit (§ 19 StVZO)
+
+"No motor vehicle and no trailer may be put into operation without an operating permit. The operating permit expires if modifications are made to the vehicle that worsen exhaust or noise behaviour, or if the type of vehicle changes."
+
+Incident 21.3 — Periodic Technical Inspection and Inspection Sticker (§ 29 StVZO)
+
+"Holders of vehicles requiring registration must have their vehicles inspected at regular intervals — the main inspection, commonly known as the TÜV. The month in which the vehicle must be presented for main inspection is indicated by the inspection sticker on the number plate."
+
+Incident 21.4 — Responsibility for Vehicle Operation (§ 31 StVZO)
+
+"Anyone operating a vehicle must be capable of independent management. The holder may not order or permit operation if they are aware that the driver is not capable or the vehicle is not roadworthy."
+
+Incident 21.5 — Vehicle Log Book (§ 31a StVZO)
+
+"The authority may order a vehicle holder to keep a vehicle log book if the identification of a vehicle driver was not possible after a traffic violation."
+
+Chapter 22: Dimensions, Weights, and Technical Equipment (StVZO)
+
+Incident 22.1 — Vehicle Dimensions (§ 32 StVZO)
+
+At a rest area stood an articulated lorry. Helmut brought out a measuring tape. "For motor vehicles and trailers — including interchangeable load carriers — the length may not exceed 12.00 metres. Articulated lorries may be up to 15.50 metres, vehicle combinations up to 18.75 metres. Width may not exceed 2.55 metres — refrigerated vehicles 2.60 metres. Height may not exceed 4.00 metres."
+
+Incident 22.2 — Axle Load and Gross Weight (§ 34 StVZO)
+
+"The permissible single axle load is 10.00 tonnes for single axles, 11.50 tonnes for driven single axles. The permissible gross mass and axle loads must be maintained during operation."
+
+Incident 22.3 — Items to Be Carried (§ 31b, § 35h, § 53a StVZO)
+
+Helmut opened the boot. "Motor vehicles must carry and produce on demand: first aid material, warning triangle, and reflective safety vest. Motor coaches must also carry fire extinguishers. Certain heavy vehicles must also carry wheel chocks."
+
+Incident 22.4 — Tyres (§ 36 StVZO)
+
+"The dimensions and design of tyres must correspond to the operating conditions, particularly the load and the design-determined maximum speed. Retreaded tyres may not be used on the front axle of buses or on vehicles over 3.5 t gross mass if the tyres do not meet certain requirements."
+
+"Winter tyres according to § 36(4) must bear the Alpine symbol."
+
+Incident 22.5 — Brakes (§ 41 StVZO)
+
+"Motor vehicles and their trailers must have braking systems that are constructed and configured so that the vehicle can be brought to a safe stop. The deceleration capability of the vehicle must meet the statutory minimum requirements."
+
+Incident 22.6 — Lighting Equipment (§ 49a, § 50, § 53 StVZO)
+
+"Only the prescribed or permitted lighting equipment may be fitted to motor vehicles and their trailers. Headlights must be adjusted so that they do not dazzle other road users. Rear lights must emit red light. Turn signal indicators must emit amber flashing light."
+
+Incident 22.7 — Mirrors and Indirect Vision (§ 56 StVZO)
+
+"Motor vehicles must have mirrors or other devices for indirect vision that provide the driver with sufficient rearward and lateral visibility."
+
+Incident 22.8 — Lighting Equipment on Bicycles (§ 67 StVZO)
+
+At a bicycle shop, Helmut explained: "Bicycles must be equipped with a front-facing headlight for white low beam, a rear-facing tail light for red light, front and rear reflectors, pedal reflectors, and side reflectors or retroreflective materials."
+
+Incident 22.9 — Audible Warning Devices (§ 55 StVZO)
+
+"Motor vehicles must have an audible warning device whose sound alerts endangered persons to the approach of a motor vehicle without startling them. The volume may not exceed a certain level."
+
+Incident 22.10 — Speedometer (§ 57 StVZO)
+
+"Motor vehicles must have a speedometer — the speedo — that indicates the speed being driven to the driver."
+
+Chapter 23: Driving Licence Law (FeV) — Who May Drive What?
+
+Incident 23.1 — The Basic Rule of Admission (§ 1 FeV)
+
+Helmut sat down with ROBO-DRIVE in his office. "Everyone is admitted to traffic on public roads, unless a permit is prescribed for admission to particular types of traffic."
+
+Incident 23.2 — The Driving Licence Requirement (§ 4 FeV)
+
+"Anyone driving a motor vehicle on public roads requires a driving licence. Exempted are, among others: mopeds up to 25 km/h, personal light electric vehicles, motorised invalid carriages up to 15 km/h, and tractors or working machines up to 6 km/h."
+
+"The driving licence must be evidenced by a valid official document. When driving a motor vehicle, a valid driving licence for that vehicle must be carried and handed over to authorised persons for inspection on request."
+
+Incident 23.3 — The Driving Licence Classes (§ 6 FeV)
+
+Helmut spread a large table on the desk:
+
+Class AM: Light two-wheeled motor vehicles, three-wheeled mopeds, light four-wheeled motor vehicles.
+
+Class A1: Motorcycles up to 125 cm³, no more than 11 kW, power-to-weight ratio max. 0.1 kW/kg.
+
+Class A2: Motorcycles up to 35 kW, power-to-weight ratio max. 0.2 kW/kg.
+
+Class A: Motorcycles without power restriction, also three-wheeled motor vehicles over 15 kW.
+
+Class B: Motor vehicles up to 3,500 kg gross mass, up to 8 persons besides the driver. Trailers up to 750 kg, or above that if the combination does not exceed 3,500 kg.
+
+Class BE: Towing vehicle of Class B with trailer up to 3,500 kg gross mass.
+
+Class C1: Motor vehicles over 3,500 kg but not over 7,500 kg gross mass.
+
+Class C: Motor vehicles over 3,500 kg gross mass (no upper mass limit).
+
+Class D1: Motor vehicles for the transport of up to 16 persons, max. length 8 m.
+
+Class D: Motor vehicles for the transport of more than 8 persons.
+
+Class T: Tractors up to 60 km/h for agricultural or forestry purposes.
+
+Class L: Tractors up to 40 km/h for agricultural or forestry purposes, combinations up to 25 km/h.
+
+Incident 23.4 — Inclusion of Classes (§ 6(3) FeV)
+
+"A Class B driving licence also entitles you to drive vehicles of Classes AM and L. Class A includes Classes A2, A1, and AM. Class CE includes Classes C1E, BE, and T."
+
+Incident 23.5 — B96 and B196 (§ 6a, § 6b FeV)
+
+"With code number 96, you may drive vehicle combinations consisting of a Class B vehicle and a trailer over 750 kg if the combination exceeds 3,500 kg but does not exceed 4,250 kg. This requires a driver training course but no exam."
+
+"With code number 196, you may ride motorcycles up to 125 cm³ and 11 kW — but only within Germany. You must be at least 25 years old and have held Class B for at least five years."
+
+Incident 23.6 — Alternatively Powered Vehicles (§ 6(3b) FeV)
+
+"A Class B driving licence also entitles you within Germany — with at least two years of possession — to drive alternatively powered goods vehicles with a gross mass over 3,500 kg but not exceeding 4,250 kg, provided the excess is solely attributable to the additional weight of the propulsion system."
+
+Chapter 24: Minimum Age and Requirements (FeV)
+
+Incident 24.1 — The Minimum Age (§ 10 FeV)
+
+Helmut listed the minimum ages:
+
+- AM: 15 years (domestic only until age 16)
+- A1: 16 years
+- A2: 18 years
+- A: 24 years for direct access, or 20 years with at least two years of prior possession of Class A2, or 21 years for three-wheeled motor vehicles over 15 kW
+- B, BE: 18 years, or 17 years with Accompanied Driving from 17 (BF17)
+- C1, C1E: 18 years
+- C, CE: 21 years, or 18 years after basic qualification
+
+Incident 24.2 — Ordinary Residence (§ 7 FeV)
+
+"A driving licence may only be issued if the applicant has their ordinary residence in Germany — meaning they usually reside in the country for at least 185 days per year."
+
+Incident 24.3 — Fitness and Vision (§ 11, § 12 FeV)
+
+"Applicants for a driving licence must meet the necessary physical and mental requirements. Special medical examinations apply for Classes C, C1, D, and D1. And every applicant must pass an eye test."
+
+Incident 24.4 — First Aid (§ 19 FeV)
+
+"Applicants for a driving licence must participate in a first aid training course. Exception: those who only apply for the moped test certificate."
+
+Incident 24.5 — Prior Possession for Higher Classes (§ 9 FeV)
+
+"For Classes C1, C, D1, or D, you already need Class B. For Classes BE, C1E, CE, D1E, or DE, you need the driving licence for the towing vehicle."
+
+Incident 24.6 — Alcohol, Cannabis, and Drugs (§ 13, § 13a, § 14 FeV)
+
+Helmut became serious. "To clarify doubts about fitness related to alcohol problems, the driving licence authority orders a medical report or a medical-psychological assessment — particularly when a vehicle was driven in road traffic with a blood alcohol concentration of 1.6 per mille or more, or when alcohol use in road traffic was detected repeatedly."
+
+"Since 2024, there have also been specific regulations for clarifying fitness doubts related to cannabis use."
+
+Chapter 25: The Driving Licence Examination (FeV Annex 7)
+
+Incident 25.1 — The Theoretical Examination (Annex 7 No. 1)
+
+"For the theoretical examination, you must demonstrate knowledge in the following subject areas: hazard awareness, behaviour in road traffic, right of way and priority, traffic signs, environmental protection, regulations on vehicle operation, technology, and driver fitness and competence."
+
+"For the initial acquisition of Class B, the examination comprises 30 questions with 110 points. The permissible number of penalty points is 10 — unless two questions with a value of 5 are answered incorrectly. The questions are valued at two to five points."
+
+"The examination can be taken in German or in twelve foreign languages: English, French, Greek, Italian, Polish, Portuguese, Romanian, Russian, Croatian, Spanish, Turkish, and Standard Arabic."
+
+Incident 25.2 — The Practical Examination (Annex 7 No. 2)
+
+Helmut explained the structure: "The practical examination consists of: technical preparation of the journey, basic driving tasks, the test drive itself, and the technical conclusion of the journey."
+
+"For Class B, the examination lasts at least 55 minutes, of which at least 30 minutes are pure driving time. Approximately half of the driving time should be used for test routes outside built-up areas — preferably also including motorways."
+
+Incident 25.3 — Basic Driving Tasks Class B (Annex 7 No. 2.1.4.2)
+
+"For Class B, three basic driving tasks are tested: one from either reversing right using a junction or reversing into a parallel parking space; plus two from U-turn, entering a perpendicular or angled parking space, or emergency braking with maximum deceleration."
+
+Incident 25.4 — Basic Driving Tasks Class A (Annex 7 No. 2.1.4.1)
+
+"For Classes A, A1, A2, there are six basic driving tasks — four mandatory: slalom at walking speed, braking with maximum deceleration, swerving without braking, swerving after braking. Plus two alternative tasks."
+
+Incident 25.5 — Examination Vehicles (Annex 7 No. 2.2)
+
+"For Class B, the examination vehicle must have a maximum speed of at least 130 km/h, at least four seats, and at least two doors on the right side. For Class C, the vehicle must be at least 8 metres long with a gross mass of at least 12,000 kg."
+
+Incident 25.6 — Assessment of the Practical Examination (Annex 7 No. 2.5)
+
+"Failure results from: errors that lead to immediate termination of the examination, or the repetition or accumulation of minor or major errors which individually would not normally lead to failure. If the driving instructor attempts to deceive the examiner, the test is to be terminated as failed."
+
+Chapter 26: Probationary Licence and Points System (FeV)
+
+Incident 26.1 — Accompanied Driving from 17 (§ 48a FeV)
+
+"With Accompanied Driving from 17, a 17-year-old with a Class B licence may only drive accompanied by a named person who is at least 30 years old, has held a Class B driving licence for at least 5 years, and has no more than one point in the Driver Fitness Register."
+
+Incident 26.2 — The Probationary Period (§ 32-39 FeV)
+
+"When a driving licence is issued for the first time, a probationary period of two years applies. Anyone who commits certain violations during this time must attend an advanced seminar, and the probationary period is extended by two more years."
+
+Incident 26.3 — The Driver Fitness Assessment System (§ 40-44 FeV)
+
+"Traffic violations are scored with points in the Driver Fitness Register in Flensburg. At 1 to 3 points, a warning is issued. At 4 to 5 points, a caution. At 6 to 7 points, participation in a driver fitness seminar is ordered. At 8 points, the driving licence is revoked."
+
+Chapter 27: Revocation and Restriction of the Driving Licence
+
+Incident 27.1 — Revocation for Unfitness (§ 46 FeV)
+
+"If the holder of a driving licence proves to be unfit to drive motor vehicles, the driving licence authority must revoke the driving licence. In cases of revocation or restriction, the authority may also impose conditions."
+
+Incident 27.2 — Restricted Admission (§ 2 FeV)
+
+"Anyone who, due to physical or mental impairments, cannot move safely in traffic may only participate in traffic if precautions have been taken to ensure they do not endanger others — for example, through suitable equipment on the vehicle or through accompaniment."
+
+Chapter 28: Parking Meters, Parking Discs, and Electronic Parking
+
+Incident 28.1 — Parking Time Monitoring (§ 13 StVO)
+
+"At parking meters, one may only stop while the meter is running. At ticket machines, only with a parking ticket. If a parking disc is prescribed, the pointer must be set to the half-hour mark following the time of stopping."
+
+"If a parking meter or ticket machine is not functioning, parking is only permitted up to the indicated maximum parking time — using a parking disc."
+
+"Interestingly, parking fees and monitoring can also be ensured through electronic devices — such as mobile phones."
+
+Chapter 29: Getting In and Out, and Duty of Care
+
+Incident 29.1 — Care When Getting In and Out (§ 14 StVO)
+
+In a car park, a woman threw her door open without looking. "Anyone getting in or out must behave in such a way that any endangerment of other road users is excluded," said Helmut. "And anyone who leaves a vehicle must take the necessary measures to prevent accidents or traffic disruptions. Motor vehicles must also be secured against unauthorised use."
+
+Chapter 30: Convoys, Processions, and Special Means of Transport
+
+Incident 30.1 — The Cycling Convoy (§ 27 StVO)
+
+A large group of cyclists approached. "More than 15 cyclists may form a closed convoy. In that case, they may ride two abreast on the carriageway."
+
+Incident 30.2 — Inline Skates and Roller Skates (§ 24 StVO)
+
+Children were riding inline skates on the pavement. "Inline skates, roller skates, scooters, children's bicycles, prams, and similar non-motorised means of transport are not vehicles within the meaning of the StVO. The provisions for pedestrian traffic apply to them accordingly."
+
+Chapter 31: Engine Power, Towing Capacity, and Couplings (StVZO)
+
+Incident 31.1 — Engine Power (§ 35 StVZO)
+
+"For trucks and motor coaches, an engine power of at least 5.0 kW per tonne of the permissible gross weight and the respective towing load must be available."
+
+Incident 31.2 — Towing Load (§ 42 StVZO)
+
+"For passenger cars, the towed trailer load may not exceed the permissible gross weight. For off-road vehicles, it may be 1.5 times that amount. However, the actual gross weight of the trailer may never exceed 3,500 kg."
+
+Incident 31.3 — Coupling Devices (§ 43 StVZO)
+
+"Devices for connecting vehicles must be designed and fastened to ensure safety according to the state of the art. Trailer couplings must generally operate automatically. When using tow bars or tow ropes, the clear distance may not exceed 5 metres."
+
+Chapter 32: Special Cases — Classic Cars, Side Guards, and More
+
+Incident 32.1 — Classic Cars (§ 23 StVZO)
+
+A beautiful 1963 Beetle was parked at the roadside with an H-plate. "To classify a vehicle as a classic car, an expert opinion from an officially recognised expert is required."
+
+Incident 32.2 — Lateral Protection Devices (§ 32c StVZO)
+
+A modern truck with lateral protection devices drove past. "Trucks and their trailers with a gross weight exceeding 3.5 tonnes must be equipped with lateral protection devices on both longitudinal sides — to prevent pedestrians and cyclists from falling under the vehicle."
+
+Incident 32.3 — Fuel Tanks (§ 45 StVZO)
+
+"Fuel tanks must be corrosion-resistant and tight at double the operating pressure. Fuel must not leak from the filler cap even when the vehicle is tilted, cornering, or encountering bumps. On motor coaches, fuel tanks may not be located in the passenger or driver compartment."
+
+Chapter 33: Driver Training for Passenger Transport Licences
+
+Incident 33.1 — Licence for Passenger Transport (§ 48 FeV)
+
+"Anyone who wants to drive a taxi, hire car, ambulance, or passenger car in scheduled service requires a licence for passenger transport. The minimum age is 21 years. The applicant must have held Class B for at least two years."
+
+Chapter 34: Traffic Education and Signage
+
+Incident 34.1 — Traffic Signs and Their Hierarchy (§ 39, § 36 StVO)
+
+"The hierarchy of traffic rules is clear: Signs and instructions of police officers take precedence over everything else. Traffic light signals take precedence over right-of-way rules and right-of-way traffic signs. Traffic signs take precedence over general traffic rules."
+
+"Traffic signs are divided into three groups: danger signs, regulatory signs, and guide signs. As signs, they are generally placed on the right."
+
+"Road markings are fundamentally white. Temporarily valid markings are yellow — they then override the white markings."
+
+Epilogue: The Final Examination of ROBO-DRIVE 3000
+
+Six months had passed. ROBO-DRIVE had experienced every situation that German traffic law encompasses. He had fitted winter tyres and attached snow chains. He had formed rescue corridors and mastered roundabouts. He had read inspection stickers and understood vehicle log books. He knew every paragraph of the StVO, every class of the FeV, every requirement of the StVZO, and every requirement of Annex 7 regarding the practical and theoretical examination.
+
+On the day of the exam, ROBO-DRIVE sat before the computer at the Technical Testing Centre. 30 questions, 110 points. He answered every single one correctly — zero penalty points.
+
+In the practical examination, he drove for 55 minutes through Koblenz, onto the motorway, through the roundabout, reversed into a parking space, executed a clean U-turn, and braked with maximum deceleration. The officially recognised expert nodded.
+
+"Passed," he said.
+
+Helmut Breitbach stood at the roadside and smiled. In 32 years, he had trained thousands of students. But none had taught him as much about his own profession as this silver robot who never read a single rule — but experienced every single one.
+
+ROBO-DRIVE turned to Helmut. His blue sensor eyes glowed. "Thank you, Mr. Breitbach," he said. "Participation in road traffic requires constant caution and mutual consideration. That was the first rule you taught me. And it is the most important."
+
+Helmut nodded. "Then you are ready."
+
+— END OF PART ONE —
+
+Reference Table of Embedded Rules
+
+Chapter  Main Sources
+---------  -------------
+1–6  StVO §§ 1–11
+7–8  StVO §§ 12–17
+9–10  StVO §§ 18–19
+11–14  StVO §§ 20–34
+15–18  StVO §§ 15–16, 30, 35, 38
+17  StVO §§ 36–37
+19–20  StVO §§ 28, 31–32
+21–22  StVZO §§ 16–67
+23–27  FeV §§ 1–48
+25  FeV Annex 7
+28–30  StVO §§ 13–14, 24, 27
+31–32  StVZO §§ 23, 32c, 35, 42–45
+33–34  FeV § 48, StVO §§ 36, 39
+
+"Every incident in this story is based on a specific provision of the StVO, StVZO, FeV, or Annex 7 to the FeV. The story is designed so that a student — whether human or robot — can understand and answer any question on the German driving licence examination after reading it."
+— Driving Instructor Helmut Breitbach
+
+Chapters 35 to 60: The Advanced Training
+
+Chapter 35: Automatic vs. Manual Transmission — Code Number 197
+
+Incident 35.1 — The Automatic Restriction (§ 17a FeV)
+
+On a rainy Tuesday, ROBO-DRIVE drove a vehicle with automatic transmission for the first time. "If the test drive is conducted in a motor vehicle with automatic transmission, the driving licence is restricted to driving motor vehicles with automatic transmission," explained Helmut.
+
+"But there is a way out — code number 197. If you receive a certificate from the driving school confirming that you can also safely drive a vehicle with manual transmission, the restriction is lifted. Code number 197 is then entered in column 12 of the driving licence."
+
+"What exactly is a manual transmission?" asked ROBO-DRIVE.
+
+"A motor vehicle with a manual transmission has a clutch pedal that the driver must operate when starting off, stopping, and changing gears. For classes A1, A2, and A, it is a hand-operated clutch lever."
+
+"The restriction does not apply to classes AM and T — nor if you have already obtained Class B on a manual vehicle and are taking a higher class such as C or CE on an automatic vehicle."
+
+Chapter 36: The Examination — Cheating, Deadlines, and Retakes
+
+Incident 36.1 — Common Examination Rules (§ 18 FeV)
+
+On the evening before the exam, Helmut became serious: "There are iron rules for the examination. In cases of cheating, the examination is deemed failed. In such cases, the waiting period for a retake can be extended to up to nine months."
+
+"A failed examination may not be retaken before the expiry of a reasonable period — generally at least two weeks."
+
+Incident 36.2 — The Twelve-Month Deadline (§ 18(2) FeV)
+
+"And very importantly: the practical examination must be taken within twelve months of passing the theoretical examination. Otherwise, the theoretical examination loses its validity. The period between the completion of the examination and the handing over of the driving licence may not exceed two years — otherwise, the entire examination loses its validity."
+
+Incident 36.3 — When the Examiner Has Doubts (§ 18(3) FeV)
+
+"If the expert or examiner establishes facts that give rise to doubts about the physical or mental fitness of the applicant, they must notify the driving licence authority and inform the applicant accordingly."
+
+Chapter 37: First Aid — More Than a Formality
+
+Incident 37.1 — First Aid Training (§ 19 FeV)
+
+Helmut brought ROBO-DRIVE to a first aid training session. "Applicants for a driving licence must attend a first aid training course of at least nine teaching units of 45 minutes each."
+
+"The training imparts thorough knowledge and practical skills in first aid through theoretical instruction and practical exercises. The training also covers basic knowledge about organ and tissue donation."
+
+"Certain professional groups are exempt from this requirement — such as doctors, dentists, persons with completed training in a healthcare profession, or rescue swimmers with the Silver or Gold badge."
+
+Chapter 38: The Application — What the Authority Needs
+
+Incident 38.1 — Application for Issuance (§ 21 FeV)
+
+At the driving licence authority, Helmut explained the bureaucratic side: "The application for a driving licence must be made in writing or electronic form. The applicant must provide their personal data, their ordinary residence, and the training driving school."
+
+"The application must include: an official proof of place and date of birth, a passport-compliant photograph, an eye test certificate — for classes AM, A1, A2, A, B, BE, L, T — or a medical certificate, and proof of first aid training."
+
+"For classes C, C1, D, and D1 and their trailer classes, an additional certificate of physical and mental fitness according to § 11(9) and a vision certificate according to § 12(6) are required. For classes D, D1, DE, and D1E, a certificate of conduct is also required."
+
+Incident 38.2 — The Six-Month Rule (§ 21(4) FeV)
+
+"The application may be submitted no earlier than six months before reaching the minimum age prescribed for the respective class."
+
+Incident 38.3 — The Procedure at the Authority (§ 22 FeV)
+
+"The driving licence authority obtains, at the applicant's expense, information from the Driver Fitness Register and the Central Driving Licence Register. It checks whether there are concerns about the applicant's fitness and whether the applicant already holds or previously held a driving licence."
+
+"A driving licence may not be issued if the applicant's driving licence was previously revoked in another country — unless the grounds for revocation no longer exist."
+
+Chapter 39: Validity and Renewal of the Driving Licence
+
+Incident 39.1 — Period of Validity (§ 23 FeV)
+
+Helmut showed ROBO-DRIVE various driving licences. "The driving licence for classes AM, A1, A2, A, B, BE, L, and T is issued without time limitation. However, the physical licence document is limited to 15 years — after which a new document must be applied for, but no new examination is required."
+
+"The driving licence for classes C, C1, CE, C1E, D, D1, DE, and D1E is issued for a limited period. For classes C and CE, for 5 years up to the age of 50, then also for 5 years. For classes D and D1, for 5 years. For renewal, a medical certificate of physical and mental fitness and vision is required."
+
+Incident 39.2 — Exchange of Old Driving Licences (§ 24a FeV)
+
+An older gentleman came to the driving school with a grey document — an old paper driving licence. "Driving licences issued before 19 January 2013 must be exchanged according to a staggered schedule. The old driving licence remains valid until the exchange date but must then be exchanged for the new card-format licence."
+
+Chapter 40: Foreign Driving Licences
+
+Incident 40.1 — Driving with a Foreign Licence (§ 29 FeV)
+
+A tourist from Brazil asked Helmut whether he could drive in Germany. "Holders of a foreign driving licence may drive motor vehicles in Germany within the scope of their entitlement, provided they do not have their ordinary residence here."
+
+"The driving licence must be evidenced by a valid national or International Driving Permit. Foreign national driving licences that are not in German, not issued in an EU/EEA state or Switzerland, and do not correspond to Annex 6 of the 1968 Vienna Convention must be accompanied by a translation."
+
+Incident 40.2 — When the Entitlement Does Not Apply (§ 29(3) FeV)
+
+"The entitlement does not apply to holders of a learner's permit, to persons who have not yet reached the German minimum age, to persons whose driving licence has been revoked or denied in Germany, or to persons who are subject to a driving ban."
+
+Incident 40.3 — Conversion After Establishing Residence (§ 29(1) FeV)
+
+"If the holder of a driving licence from a non-EU/EEA country establishes ordinary residence in Germany, the entitlement continues for six months. After that, the licence must be converted."
+
+Incident 40.4 — EU Driving Licence (§ 28 FeV)
+
+"Holders of an EU or EEA driving licence who establish ordinary residence in Germany may continue to drive within the scope of their entitlement. Conversion is voluntary but recommended."
+
+Chapter 41: Reissuance After Revocation
+
+Incident 41.1 — Reissuance of the Driving Licence (§ 20 FeV)
+
+A man whose driving licence had been revoked two years ago for drink-driving came to the driving school. "For reissuance after revocation, the provisions for initial issuance apply," explained Helmut. "The driving licence authority may order a new examination if facts justify the assumption that the applicant no longer possesses the required knowledge and skills."
+
+"The application for reissuance may be submitted no earlier than six months before the expiry of a disqualification period."
+
+Chapter 42: Vehicle Inspection in Detail (StVZO)
+
+Incident 42.1 — Doors Must Be Safe (§ 35e StVZO)
+
+During a workshop visit, Helmut showed ROBO-DRIVE the doors on an old car. "Door catches must be designed so that unintentional opening is not expected. The hinges of swing doors on the longitudinal sides of motor vehicles with speeds exceeding 25 km/h must be fitted on the front-facing side of the doors — so that the headwind cannot blow the door open."
+
+"Doors must be closed during the journey. And doors and door catches must be designed so that disturbing noises when closing are avoidable."
+
+Incident 42.2 — Heating and Ventilation (§ 35c StVZO)
+
+"Enclosed driver compartments in motor vehicles with speeds exceeding 25 km/h must be capable of being adequately heated and ventilated. And note: during the journey, LPG-operated heaters that are designed only for operation when the vehicle is stationary must not be in operation — and the valves of the LPG bottles must be closed."
+
+Incident 42.3 — Safe Mounting and Dismounting (§ 35d StVZO)
+
+"The design of vehicles must allow safe mounting and dismounting. This sounds obvious but is a real requirement for high truck cabs and tractors."
+
+Incident 42.4 — Emergency Exits in Motor Coaches (§ 35f StVZO)
+
+Helmut brought ROBO-DRIVE to a bus company. "Emergency exits in motor coaches must be marked both inside and outside the vehicle. They must be openable at all times in emergencies when the bus is stationary or travelling at a maximum of 5 km/h. Clear operating instructions must be posted on or near emergency operating devices."
+
+Incident 42.5 — Fire Extinguishers in Buses (§ 35g StVZO)
+
+"Motor coaches must carry at least one fire extinguisher with a fill mass of 6 kg — double-decker vehicles must carry at least two. The fire extinguishers must be approved for at least fire classes A, B, and C. The fire extinguisher must be stored in the immediate vicinity of the driver's seat."
+
+"The driving personnel must be familiar with the operation of the extinguishers — both the driving personnel and the vehicle holder are responsible for this."
+
+Incident 42.6 — First Aid Material (§ 35h StVZO)
+
+"Motor vehicles must carry first aid material that corresponds in type, quantity, and condition to at least DIN standard 13164. Motor coaches with more than 22 passenger seats must carry two such kits."
+
+Chapter 43: Mirrors, Speedometers, and Tachographs (StVZO)
+
+Incident 43.1 — Speedometer and Odometer (§ 57 StVZO)
+
+"The speedometer must display the vehicle's speed to the driver at all times. The display must be capable of being illuminated. The displayed value may not deviate from the actual value by more than the permissible tolerance."
+
+Incident 43.2 — Tachographs and Recording Equipment (§ 57a StVZO)
+
+During a visit to a logistics company, Helmut explained: "Certain commercial vehicles must be equipped with tachographs or digital recording devices. These record speed, distance, and driving and rest times. Tachograph inspections must be carried out at regular intervals."
+
+Incident 43.3 — Speed Limiters (§ 57c StVZO)
+
+"Motor coaches over 3.5 t and trucks over 3.5 t must be equipped with speed limiters. For trucks, the limiter must be set to 90 km/h; for buses, to 100 km/h."
+
+Incident 43.4 — Speed Plates (§ 58 StVZO)
+
+A trailer bore a round sign with the number "80". "Motor vehicles and their trailers that may not travel faster than the generally prescribed maximum speed must bear a speed plate. This is a white, circular sign with a red border and the black number of the permissible maximum speed."
+
+Chapter 44: Seatbelts, Headrests, and Child Seats in Detail (StVZO)
+
+Incident 44.1 — Seats and Anchorages (§ 35a StVZO)
+
+"The driver's seat and its controls must be designed so that the vehicle can be safely driven — even with the seatbelt fastened."
+
+"Passenger cars and commercial vehicles with speeds exceeding 25 km/h must be equipped with seat anchorages, seats, and — on the front outer seats — headrests. They must be equipped with seatbelt anchorages and seatbelts."
+
+Incident 44.2 — Airbag and Child Seat Warning (§ 35a(8) StVZO)
+
+"On front passenger seats where an active airbag is installed, rearward-facing child restraint systems must not be fitted. These seats must bear a warning pictogram against the use of a rearward-facing child restraint system at that position."
+
+Incident 44.3 — Motorcycle Passengers (§ 35a(9) StVZO)
+
+"Motorcycles carrying a passenger must be equipped with a passenger seat. When carrying a child under seven years of age, a special seat must be provided, and wheel guards must ensure that the child's feet cannot get caught in the spokes."
+
+Chapter 45: ABS, Brakes, and Underrun Protection (StVZO)
+
+Incident 45.1 — Anti-Lock Braking System (§ 41b StVZO)
+
+"The following vehicles with a maximum speed exceeding 60 km/h must be equipped with ABS: trucks and tractor units over 3.5 t, trailers over 3.5 t, motor coaches, and tractors over 3.5 t."
+
+Incident 45.2 — Underrun Protection (§ 32b StVZO)
+
+During a truck visit, Helmut showed the rear underrun guard. "Motor vehicles and trailers with a gross mass exceeding 3.5 t must be equipped with rear underrun protection. Additionally, goods vehicles over 3.5 t must be equipped with front underrun protection."
+
+"The underrun guard prevents smaller vehicles from sliding under the truck in a rear-end collision."
+
+Incident 45.3 — Lateral Protection Devices (§ 32c StVZO)
+
+"Lateral protection devices are intended to prevent pedestrians, cyclists, or motorcyclists from falling sideways under the vehicle and being run over by the wheels. Trucks and their trailers over 3.5 t must be equipped with them on both longitudinal sides — with exceptions for agricultural tractors and semi-trailer tractor units."
+
+Chapter 46: Cornering Properties and Dimensions (StVZO)
+
+Incident 46.1 — The Circular Drive (§ 32d StVZO)
+
+Helmut brought ROBO-DRIVE to a large car park and had him complete a 360-degree circular drive with a trailer. "Motor vehicles and vehicle combinations must be constructed so that the ring surface swept during a 360-degree circular drive with an outer radius of 12.50 metres does not have a width greater than 7.20 metres."
+
+"When entering the circle from the tangential straight line, no part of the vehicle may extend more than 0.80 metres beyond the straight line."
+
+Incident 46.2 — Maximum Lengths (§ 32 StVZO in Detail)
+
+"Here are the key length measurements: A single motor vehicle may be no longer than 12.00 metres. Road trains of motor vehicle and trailer may be no longer than 18.75 metres. Articulated lorries may be up to 15.50 metres, under certain conditions 16.50 metres. Articulated lorries in combined transport may be up to 17.80 metres."
+
+Chapter 47: Gas Systems and Fuel Systems (StVZO)
+
+Incident 47.1 — Compressed Gas Systems (§ 41a StVZO)
+
+In a workshop with natural gas vehicles, Helmut explained: "Special components for the use of LPG, compressed natural gas, liquefied natural gas, or hydrogen in the propulsion system must be approved according to the relevant EU regulations."
+
+"After installation of such a gas system, a gas system installation inspection must be carried out. For every repair in the low-pressure area, a leak and function test is required. For more extensive repairs or after a fire or accident, a full gas system inspection must be conducted."
+
+Chapter 48: Bicycles and Their Regulations (StVZO)
+
+Incident 48.1 — Bicycle Lighting in Detail (§ 67 StVZO)
+
+Helmut and ROBO-DRIVE visited a bicycle shop. "Bicycles must be equipped with: a front-facing headlight for white low beam, a rear tail light for red light, a white front reflector and a red large-area rear reflector, yellow pedal reflectors, and lateral visibility marking — either through retroreflective white strips on the tyres or rims, or yellow spoke reflectors, or retroreflective spokes or spoke sleeves."
+
+"The dynamo must have a rated output of at least 3 watts and a rated voltage of 6 volts. Alternatively, battery-powered headlights and tail lights are permissible."
+
+Incident 48.2 — Bicycle Brakes (§ 65 StVZO)
+
+"Bicycles must have two independent brakes."
+
+Incident 48.3 — The Bicycle Bell (§ 64a StVZO)
+
+"Bicycles must be equipped with at least one bright-sounding bell. No other audible warning devices may be fitted to bicycles."
+
+Chapter 49: Danger Signs, Regulatory Signs, and Guide Signs (StVO)
+
+Incident 49.1 — The Three Sign Groups (§ 39-42 StVO)
+
+On a long country road, Helmut explained the system of traffic signs: "Traffic signs are divided into three groups."
+
+"Danger signs urge increased attention, particularly reducing speed. Outside built-up areas, they are generally placed 150 to 250 metres before the danger point. Within built-up areas, they are placed shortly before."
+
+"Regulatory signs order obligations or prohibitions. They must be obeyed. They are placed where the order applies."
+
+"Guide signs give special information to facilitate traffic. However, they may also contain obligations or prohibitions."
+
+Incident 49.2 — Traffic Installations (§ 43 StVO)
+
+"Traffic installations include barriers, blocking posts, barricading devices, and guide installations — which, apart from guide posts, guide thresholds, and guide kerbs, are striped in red and white. Guide thresholds and guide kerbs are yellow. Parking meters, ticket machines, flashing light and traffic signal installations are also traffic installations."
+
+"Road surfaces marked by traffic installations such as traffic cones, barricades, and barricading boards may not be driven on."
+
+Incident 49.3 — Supplementary Signs and Markings (§ 39 StVO)
+
+"Supplementary signs are also traffic signs. They show black symbols on a white background with a black border and are attached directly — usually below the traffic sign they relate to."
+
+"Road markings are fundamentally white. Temporarily valid markings are yellow — they then override the white markings. This is particularly important at construction sites."
+
+Incident 49.4 — 30 km/h Zones and Bicycle Zones (§ 39(1a, 1b) StVO)
+
+"Within built-up areas, away from priority roads, one should expect 30 km/h zones to be ordered. Similarly, one should expect bicycle zones to be ordered."
+
+Incident 49.5 — Electric Vehicle Priority (§ 39(10) StVO)
+
+An electric car was parked at a charging station with a supplementary sign bearing the electric vehicle symbol. "The electric vehicle symbol may be ordered as the content of a supplementary sign to give priority to electrically powered vehicles. The symbol may also be applied on the parking surface."
+
+Incident 49.6 — Car-Sharing Parking Spaces (§ 39(11) StVO)
+
+"The car-sharing symbol may be ordered as the content of a supplementary sign to Signs 314 or 315 to give parking priority to car-sharing vehicles."
+
+Chapter 50: Traffic Impairments and Advertising
+
+Incident 50.1 — Roadside Advertising (§ 33 StVO)
+
+On a country road, a huge advertising poster glowed. "Outside built-up areas, all advertising and propaganda through images, text, light, or sound is prohibited if it could distract or disturb road users in a manner that endangers or impedes traffic."
+
+"Advertising within built-up areas may also not disturb traffic outside built-up areas in such a manner."
+
+"Installations that resemble traffic signs or could be confused with them, or that could impair their effectiveness, may not be placed where they could affect traffic. Advertising in connection with traffic signs is prohibited."
+
+Incident 50.2 — Loudspeakers and Street Selling (§ 33(1) StVO)
+
+"The operation of loudspeakers and the offering of goods on the road are prohibited — if this could distract or inconvenience road users in a manner that endangers or impedes traffic."
+
+Chapter 51: Excessive Road Use and Events
+
+Incident 51.1 — Events on the Road (§ 29 StVO)
+
+A cycling club wanted to organise a race through the city centre. "Events that make use of roads more than is usual — particularly motor vehicle races — require a permit. This is the case when road use is restricted for traffic."
+
+"Vehicles and trains whose dimensions, axle loads, or gross weights exceed the legally permitted limits also require a permit."
+
+Chapter 52: The Road Traffic Authority and Its Powers
+
+Incident 52.1 — Who Orders Traffic Signs? (§ 44, § 45 StVO)
+
+Helmut explained the institutional side: "The road traffic authorities are responsible for implementing the StVO. The police are authorised to regulate traffic through signs and instructions and by operating traffic signal systems."
+
+"The road traffic authorities may restrict or prohibit the use of specific roads for reasons of traffic safety or order — for example, to carry out roadworks, to protect residents from noise and exhaust fumes, to protect water bodies, to research accident patterns, or to improve environmental and climate protection."
+
+Chapter 53: Special Cases of Vehicle Identification (StVZO)
+
+Incident 53.1 — Type Plates and Vehicle Identification Number (§ 59 StVZO)
+
+On a new car, Helmut showed the Vehicle Identification Number. "Every vehicle has a unique Vehicle Identification Number — the VIN. It is stamped or etched into the vehicle and may not be altered without authorisation."
+
+Incident 53.2 — Design-Determined Maximum Speed (§ 30a StVZO)
+
+"Motor vehicles must be constructed and equipped so that technical modifications that would change the design-determined maximum speed are made substantially more difficult. For mopeds and motorcycles, they must comply with specific anti-tampering regulations."
+
+"Trailers must be built for a speed of at least 100 km/h. If they are built for a lower speed, they must be marked with a speed plate."
+
+Chapter 54: Special Features of the Passenger Transport Licence
+
+Incident 54.1 — Taxi Licence (§ 48 FeV)
+
+A young man wanted to become a taxi driver. "Anyone who wants to drive a taxi, hire car, or ambulance requires a licence for passenger transport," explained Helmut.
+
+"Requirements: minimum age 21 years, possession of Class B for at least two years, fitness — demonstrated by a medical certificate and eye test — as well as a local knowledge test for taxi and hire car drivers."
+
+Chapter 55: Probationary Period and Advanced Seminar in Detail
+
+Incident 55.1 — Assessment of Violations (§ 34, Annex 12 FeV)
+
+A young licence holder on probation was caught speeding. "During the probationary period, criminal offences and regulatory offences are divided into two groups: Serious violations — Group A — such as significant speeding, red light violations, drink-driving. And less serious violations — Group B — such as violations of lighting requirements or worn tyres."
+
+"For one A-violation or two B-violations, participation in an advanced seminar is ordered and the probationary period is extended by two years."
+
+Incident 55.2 — The Advanced Seminar (§ 35 FeV)
+
+"An advanced seminar consists of a course with several sessions. It is intended to help the licence holder reflect on their driving behaviour. The seminars are conducted by specially trained driving instructors."
+
+Incident 55.3 — Traffic Psychology Consultation (§ 38 FeV)
+
+"If the holder of a probationary driving licence reoffends after the advanced seminar, participation in a traffic psychology consultation is recommended. The consultation is intended to help the person concerned recognise patterns of misbehaviour and develop strategies."
+
+Chapter 56: The Driver Fitness Seminar (FeV)
+
+Incident 56.1 — Structure of the Seminar (§ 42 FeV)
+
+Helmut showed ROBO-DRIVE the documents for the driver fitness seminar. "The seminar consists of a traffic-pedagogical component — conducted by a driving instructor — and a traffic-psychological component — conducted by a traffic psychologist."
+
+"The traffic-pedagogical component comprises two modules of 90 minutes each with a maximum of six participants. The traffic-psychological component comprises two sessions of 75 minutes each as individual sessions."
+
+"The content of the seminars includes: analysis of the individual driving history, recognition of perception and judgement errors, the purpose of traffic rules, offence-related accident risk, and individual safety responsibility."
+
+Chapter 57: Electric Vehicles and Alternative Propulsion
+
+Incident 57.1 — E-Vehicles on the Cycle Path (§ 2(4) StVO)
+
+An e-bike overtook them on a cycle path. "Outside built-up areas, mopeds and e-bikes may use cycle paths," explained Helmut.
+
+Incident 57.2 — Personal Light Electric Vehicles (§ 4(1)(1a) FeV)
+
+A young man rode past on an e-scooter. "Personal light electric vehicles under the Personal Light Electric Vehicles Ordinance are exempt from the driving licence requirement."
+
+Incident 57.3 — Autonomous Emergency Braking System (§ 23(1d) StVO)
+
+A modern truck was equipped with an autonomous emergency braking system. "Anyone driving a motor vehicle with a gross mass exceeding 3.5 t must ensure that a prescribed autonomous emergency braking system is activated at speeds above 30 km/h."
+
+"Exceptions apply to vehicles of road construction services or police with front-mounted attachments that impair the system."
+
+Chapter 58: Amber Flashing Light and Special Vehicles
+
+Incident 58.1 — Amber Flashing Light (§ 38(3) StVO)
+
+A road construction vehicle with amber flashing light approached. "Amber flashing light warns of dangers. It may be used from a fixed position or from vehicles — to warn of work sites or accident scenes, of unusually slow-moving vehicles, or of vehicles of unusual width or length."
+
+Incident 58.2 — Street Cleaning Vehicles (§ 35(6) StVO)
+
+A sweeper vehicle with white-red-white warning markings drove on the pavement. "Vehicles used for road construction, maintenance, or cleaning, marked with white-red-white warning devices, may drive and stop on all roads and road sections in any direction at all times, as far as their deployment requires."
+
+Incident 58.3 — Postal Vehicles (§ 35(7a) StVO)
+
+A postal vehicle was double-parked in front of a letterbox. "Vehicles of companies providing universal postal services may use pedestrian zones outside the ordered hours, as far as this is necessary for the timely emptying of letterboxes. They may also park briefly in double file within a 10-metre range in front of or behind a letterbox."
+
+Chapter 59: Lane Control Signals and Special Light Signals
+
+Incident 59.1 — Lane Control Signals (§ 37(3) StVO)
+
+On a multi-lane road, lane control signals glowed above the lanes. "Red crossed diagonal bars command: The lane may not be used. A green downward-pointing arrow means: Traffic on this lane is released. An amber flashing arrow pointing diagonally downward commands: Change lane in the direction of the arrow."
+
+"Stopping is not permitted on lanes with lane control signals."
+
+Incident 59.2 — Special Light Signals for Cyclists (§ 37(2)(6) StVO)
+
+"Cyclists must generally observe the light signals for motor traffic. By way of exception, on cycle traffic routes, the special light signals for cycle traffic must be observed."
+
+Chapter 60: The Final Drive — Everything Together
+
+Incident 60.1 — The Grand Test Drive
+
+On the last day before the examination, ROBO-DRIVE completed a comprehensive practice drive. He drove through the city centre of Koblenz (50 km/h in built-up areas, 30 km/h zone, pedestrian crossings, roundabout), along the country road by the Mosel (100 km/h, curves, overtaking cyclists with 2 m clearance), onto the A48 motorway (merging, minimum following distance, practising the rescue corridor), through a tunnel (lighting, distance), past a railway crossing (St. Andrew's Cross, waiting), through a residential area with children playing (readiness to brake, walking speed), past a bus stop with activated hazard warning lights (walking speed, no overtaking), and finally reversed into a parallel parking space.
+
+He mastered every situation. Every rule was not just stored — it was lived.
+
+Afterword: What ROBO-DRIVE Learned
+
+ROBO-DRIVE 3000 had experienced over 300 incidents in six months, together covering the entire body of German road traffic law:
+
+From the StVO (Road Traffic Regulations): Basic rules, road use, speed, following distance, overtaking, passing, lane use, right of way, turning, entering, special traffic situations, rescue corridors, stopping and parking, parking time monitoring, getting in and out, breakdowns, towing, warning signals, lighting, motorways, railway crossings, public transport, passenger transport, child seats, seatbelts, crash helmets, cargo, mobile phone ban, radar warning devices, face concealment, autonomous emergency braking, pedestrians, pedestrian crossings, convoys, animals, environmental protection, Sunday driving ban, sports and play, traffic obstructions, traffic impairments, accident duties, special rights, police signals, traffic lights, green arrow, lane control signals, blue lights, amber flashing light, traffic signs, danger signs, regulatory signs, guide signs, traffic installations, and all annexes to the StVO.
+
+From the StVZO (Road Traffic Licensing Regulations): Vehicle registration, operating permits, type approvals, periodic technical inspections, inspection stickers, operational responsibility, vehicle log books, dimensions, axle loads, gross weights, engine power, seats, seatbelts, headrests, child seats, wheelchair restraint systems, heating, doors, emergency exits, fire extinguishers, first aid material, tyres, winter tyres, steering, brakes, ABS, towing loads, couplings, support devices, fuel tanks, exhaust, lighting, headlights, tail lights, turn signals, warning triangles, reflective safety vests, rear fog lights, mirrors, speedometers, tachographs, speed limiters, speed plates, bicycle lighting, bicycle bells, underrun protection, lateral protection devices, cornering properties, gas systems, and classic car assessments.
+
+From the FeV (Driving Licence Regulation): Basic rule of admission, restricted admission, driving licence requirement, exemptions, moped test certificate, all driving licence classes (AM, A1, A2, A, B, BE, C1, C1E, C, CE, D1, D1E, D, DE, T, L), code numbers (B96, B196, 197), alternatively powered vehicles, class inclusion, ordinary residence, prior possession, minimum age, fitness, vision, alcohol and drug issues, cannabis regulations, driving licence examination, automatic transmission restriction, examination deadlines, first aid training, application and procedure, period of validity, renewal, exchange, driving licence, International Driving Permit, foreign driving licences, EU driving licence, conversion, probationary driving licence, advanced seminars, traffic psychology consultation, driver fitness assessment system, driver fitness seminars, revocation, reissuance, passenger transport, accompanied driving from 17, and emergency vehicles of fire brigades/THW.
+
+From FeV Annex 7 (Driving Licence Examination): Examination material and subject areas, question numbers and penalty points for all classes, assessment, foreign languages, basic driving tasks for all classes, examination vehicle requirements for all classes, examination duration and minimum driving time, examination routes, assessment criteria, driving instructor behaviour, early termination, and examination results.
+
+"Participation in road traffic requires constant caution and mutual consideration. That was the first rule I taught ROBO-DRIVE. And it is also the last. Because every other rule — from the winter tyre requirement to the inspection sticker, from the pedestrian crossing to the autonomous emergency braking system — is merely a concretisation of this one fundamental principle."
+— Driving Instructor Helmut Breitbach, Koblenz, March 2026
+
+THE END
