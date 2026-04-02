@@ -1,0 +1,25 @@
+<svg width="600" height="300" viewBox="0 0 600 300" xmlns="http://www.w3.org/2000/svg">
+
+  <!--
+    Blue rectangle — base shape for German Richtzeichen direction signs (Autobahn / motorway).
+    Used for: Z 330.1 (Autobahn start), Z 333 (motorway exit), destination boards, etc.
+    Motorway blue: #003FA0.
+    Dimensions: 600 × 300 (2:1 ratio, common for direction signs).
+    Rounded corners rx="14" match real-world sign edge profile.
+    White border stroke represents the retro-reflective white edging.
+    Text and arrows are drawn white on top.
+
+    Colour variants:
+      Autobahn (motorway):      #003FA0  (this file)
+      Bundesstraße (A-road):    #FFCD00  background, black text
+      Landstraße (rural road):  #FFFFFF  background, black text
+  -->
+  <rect
+    x="10" y="10" width="580" height="280"
+    rx="14" ry="14"
+    fill="#003FA0"
+    stroke="#FFFFFF"
+    stroke-width="8"
+  />
+
+</svg>

@@ -1,5 +1,6 @@
 import { Routes, Route } from 'react-router-dom'
-import { Suspense, lazy } from 'react'
+import { Suspense, lazy, useEffect } from 'react'
+import { useAuthStore } from './stores/authStore'
 
 const Home        = lazy(() => import('./pages/Home'))
 const Quiz        = lazy(() => import('./pages/Quiz'))
@@ -12,6 +13,9 @@ const Profile     = lazy(() => import('./pages/Profile'))
 const Leaderboard = lazy(() => import('./pages/Leaderboard'))
 
 function App() {
+  const init = useAuthStore(s => s.init)
+  useEffect(() => init(), [init])
+
   return (
     <Suspense fallback={<div className="flex items-center justify-center min-h-screen text-gray-500">Loading…</div>}>
       <Routes>

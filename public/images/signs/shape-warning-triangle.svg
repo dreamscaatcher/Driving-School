@@ -1,0 +1,21 @@
+<svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+
+  <!--
+    Equilateral triangle pointing UP — base shape for German Gefahrzeichen (Z 101–199).
+    Circumradius R = 168, centre at (200, 210).
+    Vertices at -90°, 30°, 150° from centre:
+      Top:          (200.0,  42.0)   angle -90°
+      Bottom-right: (345.5, 294.0)   angle  30°  x = 200 + 168·sin(120°), y = 210 + 168·0.5
+      Bottom-left:  ( 54.5, 294.0)   angle 150°
+    Red border via stroke-width="22"; stroke-linejoin="round" softens corners.
+    White fill is the sign face — add symbol on top.
+  -->
+  <polygon
+    points="200,42 345.5,294 54.5,294"
+    fill="#FFFFFF"
+    stroke="#CC0000"
+    stroke-width="22"
+    stroke-linejoin="round"
+  />
+
+</svg>

@@ -1,6 +1,7 @@
 import type { Question } from '../../types/question'
 import { getCategoryById } from '../../data/categories'
 import OptionButton from './OptionButton'
+import AIExplanation from './AIExplanation'
 
 interface Props {
   question: Question
@@ -92,6 +93,9 @@ export default function QuestionCard({
               <p>{question.explanation}</p>
             </div>
           )}
+
+          {/* AI Explanation */}
+          <AIExplanation question={question} selectedAnswer={selectedAnswer} />
         </div>
       )}
     </div>

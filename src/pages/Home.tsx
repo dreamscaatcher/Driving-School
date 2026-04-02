@@ -3,6 +3,7 @@ import { CATEGORIES } from '../data/categories'
 import questionsRaw from '../data/questions_final_v2.json'
 import type { Question } from '../types/question'
 import { useProgressStore } from '../stores/progressStore'
+import { useAuthStore } from '../stores/authStore'
 import ProgressBar from '../components/ui/ProgressBar'
 
 const allQuestions = questionsRaw as Question[]
@@ -14,6 +15,7 @@ for (const q of allQuestions) {
 
 export default function Home() {
   const { practiceAnswers, examHistory, clearPractice } = useProgressStore()
+  const { user, signOut } = useAuthStore()
 
   const totalAnswered = Object.keys(practiceAnswers).length
   const totalCorrect  = Object.values(practiceAnswers).filter(a => a.correct).length
@@ -22,9 +24,35 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-slate-50">
       {/* Header */}
-      <div className="bg-white border-b border-gray-100 px-4 py-5 text-center">
-        <h1 className="text-2xl font-bold text-gray-900">Führerschein Theorie</h1>
-        <p className="text-sm text-gray-400 mt-0.5">German driving theory · 472 questions</p>
+      <div className="bg-white border-b border-gray-100 px-4 py-4 flex items-center justify-between">
+        <div className="flex-1" />
+        <div className="text-center">
+          <h1 className="text-2xl font-bold text-gray-900">Führerschein Theorie</h1>
+          <p className="text-sm text-gray-400 mt-0.5">German driving theory · 472 questions</p>
+        </div>
+        <div className="flex-1 flex justify-end">
+          {user ? (
+            <div className="flex items-center gap-2">
+              <span className="text-xs text-gray-500 hidden sm:block truncate max-w-30">
+                {user.email}
+              </span>
+              <button
+                type="button"
+                onClick={() => signOut()}
+                className="text-xs font-medium text-gray-500 hover:text-red-500 border border-gray-200 rounded-lg px-3 py-1.5 transition-colors"
+              >
+                Sign out
+              </button>
+            </div>
+          ) : (
+            <Link
+              to="/login"
+              className="text-xs font-semibold text-white bg-blue-600 hover:bg-blue-700 rounded-lg px-3 py-1.5 transition-colors"
+            >
+              Sign in
+            </Link>
+          )}
+        </div>
       </div>
 
       <div className="max-w-3xl mx-auto px-4 py-6 flex flex-col gap-8">

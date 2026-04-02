@@ -5,6 +5,7 @@ import type { Question } from '../types/question'
 import { CATEGORIES, getCategoryById } from '../data/categories'
 import QuestionCard from '../components/quiz/QuestionCard'
 import { useProgressStore } from '../stores/progressStore'
+import { useAuthStore } from '../stores/authStore'
 
 const ALL_QUESTIONS = questionsRaw as Question[]
 
@@ -24,6 +25,7 @@ export default function Quiz() {
   const catInfo = activeCat !== 'all' ? getCategoryById(activeCat) : null
 
   const { practiceAnswers, answerPractice } = useProgressStore()
+  const { user, signOut } = useAuthStore()
 
   // Find first unanswered question to start from
   const firstUnanswered = questions.findIndex(q => !practiceAnswers[q.id])
@@ -113,6 +115,17 @@ export default function Quiz() {
         <span className="text-sm font-medium text-gray-500 shrink-0">
           {qIndex + 1} <span className="text-gray-300">/</span> {questions.length}
         </span>
+
+        {/* Sign out */}
+        {user && (
+          <button
+            type="button"
+            onClick={() => void signOut()}
+            className="text-xs font-medium text-gray-400 hover:text-red-500 shrink-0 transition-colors"
+          >
+            Sign out
+          </button>
+        )}
       </div>
 
       {/* Progress bar */}

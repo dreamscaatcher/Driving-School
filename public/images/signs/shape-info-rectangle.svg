@@ -1,0 +1,19 @@
+<svg width="500" height="200" viewBox="0 0 500 200" xmlns="http://www.w3.org/2000/svg">
+
+  <!--
+    White rectangle — base shape for German Zusatzzeichen (supplementary/additional signs)
+    and general information panels (Z 1000-series).
+    White fill with dark border.
+    Dimensions: 500 × 200 (5:2 ratio, typical for text-based supplementary signs).
+    Rounded corners rx="8" for real-world appearance.
+    Text or symbols are drawn black on top.
+  -->
+  <rect
+    x="8" y="8" width="484" height="184"
+    rx="8" ry="8"
+    fill="#FFFFFF"
+    stroke="#1A1A1A"
+    stroke-width="8"
+  />
+
+</svg>

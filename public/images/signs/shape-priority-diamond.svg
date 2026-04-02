@@ -1,0 +1,19 @@
+<svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+
+  <!--
+    Yellow diamond (square rotated 45°) — base shape for Z 306 "Vorfahrtstraße" (Priority Road).
+    Centre (200, 200), half-diagonal 170.
+    Vertices: top (200, 30), right (370, 200), bottom (200, 370), left (30, 200).
+    German priority-road yellow: #FFCD00.
+    White border stripe (stroke) represents the white edging on the real sign.
+    The real Z 306 has a yellow diamond with a white diamond border inset — add via inner polygon on full sign.
+  -->
+  <polygon
+    points="200,30 370,200 200,370 30,200"
+    fill="#FFCD00"
+    stroke="#FFFFFF"
+    stroke-width="12"
+    stroke-linejoin="round"
+  />
+
+</svg>
