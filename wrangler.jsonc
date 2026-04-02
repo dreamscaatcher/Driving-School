@@ -1,6 +1,7 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "driving-school",
+  "account_id": "ff3117cc3fcbba8f061b968886698ee6",
   "compatibility_date": "2025-09-27",
   "observability": {
     "enabled": true
