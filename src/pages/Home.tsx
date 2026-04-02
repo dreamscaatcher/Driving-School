@@ -28,7 +28,7 @@ export default function Home() {
         <div className="flex-1" />
         <div className="text-center">
           <h1 className="text-2xl font-bold text-gray-900">Führerschein Theorie</h1>
-          <p className="text-sm text-gray-400 mt-0.5">German driving theory · 472 questions</p>
+          <p className="text-sm text-gray-400 mt-0.5">German driving theory · 472 questions · v2</p>
         </div>
         <div className="flex-1 flex justify-end">
           {user ? (
