@@ -443,6 +443,11 @@
     "id": 21,
     "category": "Traffic Signs",
     "question": "You see a circular sign with a red border and a car and motorcycle symbol. What does it mean?",
+    "image": {
+      "src": "/images/signs/motorcycle-&car-prohibition.png",
+      "alt": "Z 260 – Circular sign with red border showing a motorcycle above a car",
+      "type": "sign"
+    },
     "options": [
       {
         "label": "A",

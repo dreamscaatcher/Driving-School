@@ -2,6 +2,7 @@ import type { Question } from '../../types/question'
 import { getCategoryById } from '../../data/categories'
 import OptionButton from './OptionButton'
 import AIExplanation from './AIExplanation'
+import ImageQuestion from './ImageQuestion'
 
 interface Props {
   question: Question
@@ -43,6 +44,9 @@ export default function QuestionCard({
           </span>
         </div>
       )}
+
+      {/* Sign / scenario image */}
+      {question.image && <ImageQuestion image={question.image} />}
 
       {/* Question text */}
       <h2 className="text-base font-semibold text-gray-800 leading-snug mb-5">
